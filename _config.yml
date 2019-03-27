@@ -1,0 +1,10 @@
+---
+
+title:    Music By Grace Evelyn
+
+exclude:
+- .gitignore
+- Gemfile
+- Gemfile.lock
+- node_modules
+- update_bootstrap.sh

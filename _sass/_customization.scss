@@ -1,0 +1,93 @@
+//
+// Put bootstrap-related CSS customizations here
+//
+
+body {
+    padding-top: $navbar-padding-y+$nav-link-height; 
+}
+
+footer {
+    background-color: $body-color;
+    color: #ffffff;
+    font-size: $font-size-sm;
+}
+
+.footer-copyright {
+    padding: 1em;
+}
+
+.main-border-line {
+    background: url("/assets/images/main-border-line.png") repeat-x top;
+    height: 20px;
+    width: 100%;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+h1, h2, h3, h4 {
+    text-align: center;
+}
+
+h2 {
+    color: $secondary-color;
+    text-transform: uppercase;
+}
+
+h2::before, h2::after {
+    position: absolute;
+    width: $h2-font-size*0.25;
+    height: $h2-font-size*0.25;
+    border-radius: $h2-font-size*4.5;
+    background: $secondary-color;
+    content: "";
+}
+
+h2::before {
+    margin-top: $h2-font-size*0.5;
+    margin-left: -$h2-font-size*0.5;
+}
+
+h2::after {
+    margin-top: $h2-font-size*0.5;
+    margin-left: $h2-font-size*0.25;
+}
+
+h3 {
+    border-top-color: rgb(221, 221, 221);
+    border-top-style: solid;
+    border-top-width: 1px;
+
+    border-bottom-color: rgb(221, 221, 221);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+
+    padding-top: $h3-font-size * 0.7;
+    padding-bottom: $h3-font-size * 0.5;
+}
+
+h4 {
+    color: $secondary-color;
+}
+
+.titleBorder {
+    width: 100%;
+    margin-top: 0px;
+    background: url(/assets/images/ornament.png) no-repeat bottom;
+    height: 23px;
+    margin-bottom: 10px;
+}
+
+.carouselOrnament {
+    width: 100%;
+    margin-top: 0px;
+    background: url(/assets/images/ornament-slideshow-2.png) no-repeat bottom;
+    height: 23px;
+    margin-bottom: 10px;
+}
+
+.carousel h5 {
+    color: #ffffff;
+    font-size: 56px;
+}

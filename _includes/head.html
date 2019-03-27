@@ -1,0 +1,25 @@
+<head>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Vidaloka" type="text/css" media="all" />
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Droid%20Serif" type="text/css" media="all" />
+
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+
+    <link rel="shortcut icon" href="{{ "/assets/images/favicon.png" | relative_url }}">
+
+    <script src="{{ "/assets/javascript/bootstrap/jquery.min.js" | relative_url }}"></script>
+    <script src="{{ "/assets/javascript/bootstrap/bootstrap.bundle.min.js" | relative_url }}"></script>
+
+    <title>
+        {% if page.title == "Home" %}
+        {{ site.title }}
+        {% else %}
+        {{ page.title }} | {{ site.title }}
+        {% endif %}
+    </title>
+
+</head>

@@ -1,0 +1,13 @@
+<div class="row">
+    {% if include.h %}
+    <div class="col-sm-12">
+        <h3>{{ include.h }}</h3>
+    </div>
+    {% endif %}
+    <div class="col-sm">
+        {{ include.col1 | markdownify }}
+    </div>
+    <div class="col-sm">
+        {{ include.col2 | markdownify }}
+    </div>
+</div>

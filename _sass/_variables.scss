@@ -1,0 +1,33 @@
+//
+// Put Bootstrap-related SCSS variables here
+//
+
+$web-font-path: "http://fonts.googleapis.com/css?family=Droid%20Serif" !default;
+@import url($web-font-path);
+
+$title-web-font-path: "https://fonts.googleapis.com/css?family=Vidaloka";
+@import url($title-web-font-path);
+
+//@import "./bootstrap/bootstrap.scss";
+
+
+// Body
+
+$body-color:                  #121212 !default;
+$secondary-color:             #e14f4f !default;
+
+// Fonts
+
+$font-family-sans-serif:        "Droid Serif", serif !default;
+
+$headings-font-family:          "Vidaloka", serif !default;
+$headings-color:              #2a2b2c;
+
+$link-color:                    $secondary-color;
+
+$navbar-light-color:            rgba($secondary-color, .7) !default;
+$navbar-light-hover-color:      rgba($secondary-color, .9) !default;
+$navbar-light-active-color:     rgba($secondary-color, 1) !default;
+$navbar-light-disabled-color:   rgba($secondary-color, .3) !default;
+
+$navbar-brand-font-size:        1rem !default;
