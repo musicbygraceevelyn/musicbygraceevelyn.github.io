@@ -15,7 +15,7 @@ title: Media
 
 {% capture left_col %}
 
-<iframe src="http://www.youtube.com/embed/tKW5CZcn6GI" width="425" height="350"></iframe>
+<iframe src="https://www.youtube.com/embed/tKW5CZcn6GI" width="425" height="350"></iframe>
 
 ![Image1](/assets/images/IMG_0319-393x300.jpg)
 
@@ -25,7 +25,7 @@ title: Media
 
 {% capture right_col %}
 
-<iframe src="http://www.youtube.com/embed/Jxd4nzHOKO4" width="425" height="350"></iframe>
+<iframe src="https://www.youtube.com/embed/Jxd4nzHOKO4" width="425" height="350"></iframe>
 
 ![Image1](/assets/images/IMG_0510-393x300.jpg)
 
