@@ -1,2 +1,15 @@
+
+
+.ruby-version
+.jekyll-metadata
 Gemfile.lock
 node_modules
+
+*~
+
+_site
+
+.DS_Store
+._*
+Thumbs.db
+.cache
