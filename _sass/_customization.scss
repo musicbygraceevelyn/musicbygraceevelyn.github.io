@@ -6,22 +6,6 @@ body {
     padding-top: $navbar-padding-y+$nav-link-height; 
 }
 
-footer {
-    background-color: $body-color;
-    color: #ffffff;
-    font-size: $font-size-sm;
-}
-
-.footer-copyright {
-    padding: 1em;
-}
-
-.main-border-line {
-    background: url("/assets/images/main-border-line.png") repeat-x top;
-    height: 20px;
-    width: 100%;
-}
-
 h1 {
     font-weight: 700;
 }
@@ -71,12 +55,36 @@ h4 {
     color: $secondary-color;
 }
 
+//
+// Site CSS & themeing
+//
+
+footer {
+    background-color: $body-color;
+    color: #ffffff;
+    font-size: $font-size-sm;
+}
+
+.footer-copyright {
+    padding: 1em;
+}
+
+//
+// Theming
+//
+
 .titleBorder {
     width: 100%;
     margin-top: 0px;
     background: url(/assets/images/ornament.png) no-repeat bottom;
     height: 23px;
     margin-bottom: 10px;
+}
+
+.main-border-line {
+    background: url("/assets/images/main-border-line.png") repeat-x top;
+    height: 20px;
+    width: 100%;
 }
 
 .carouselOrnament {
