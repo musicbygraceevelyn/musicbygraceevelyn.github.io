@@ -18,6 +18,8 @@ I love helping every musician I work with improve their sound and feel more conf
 
 I love languages! And I love hearing you nail it while singing so that you sound like a native speaker. I have studied English, French, German, Spanish and Italian and took a quick crash course in Czech, and have the pleasure of visiting countries where these languages are spoken and have been able to listen to native speakers. I would love to work with you to pass on what I have learned and help you sound your absolute best. In addition to pronunciation, we'll talk about the story behind the lyrics and find the story you want to share when you're performing.
 
+[Vocal Repertoire List](vocal_rep)
+
 {% endcapture %}
 
 {% include two_columns.html

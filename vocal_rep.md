@@ -1,6 +1,6 @@
 ---
 title: Classical Vocal Collaborative Repertoire
-layout: single
+layout: default
 
 art_songs:
   Czech:
@@ -84,7 +84,9 @@ art_songs:
       - "Si J’étais jardinier"
     "Debussy":
     - songs:
-      - "C’est l’extase langoureuse, Il pleure dans mon coeur and Green"
+      - "C’est l’extase langoureuse"
+      - Il pleure dans mon coeur
+      - Green
       collection: "Ariettes Oubliées"
     - songs:
       - "Clair du lune (1882)"
@@ -281,7 +283,8 @@ art_songs:
       collection: Drei Gedichte
       opus: Op. 30, No. 1
     - songs:
-      - Widmung and Der Nussbaum
+      - Widmung
+      - Der Nussbaum
       collection: Myrthen
       opus: Op. 25, Nos. 1 and 3
     - songs:
@@ -480,7 +483,8 @@ arias:
       collection: Louise 
     Gounod:
     - songs:
-      - "Ah! Je veux vivre and Que fais-tu, blanche tourterelle"
+      - "Ah! Je veux vivre"
+      - "Que fais-tu, blanche tourterelle"
       collection: "Roméo et Juliette"
     Massenet:
     - songs:
@@ -523,7 +527,9 @@ arias:
       collection: Tue Rechnung! Donnerwort
       opus: BWV 168 
     - songs:
-      - Coffee Cantata, arias 4 and 8
+      - Ei! wis schmeckt der Coffee süsse
+      - Heute noch, heute noch, lieber Vater
+      collection: Coffee Cantata
     - songs:
       - Mache dich, mein Herze, rein
       collection: St. Matthew Passion
@@ -638,7 +644,7 @@ arias:
     - songs:
       - complete
       collection: Le nozze di Figaro
-      opus: Rehearsal pianist for Main Stage production 2016, Boston Conservatory at Berklee
+      opus: (Rehearsal pianist for Main Stage production 2016, Boston Conservatory at Berklee)
     - songs:
       - Ridente la calma
       collection: Der Sylphe des Friedens
@@ -664,7 +670,8 @@ arias:
       - Saper vorreste
       collection: Un Ballo in Maschera
     - songs:
-      - Questa o quella, and Caro nome
+      - Questa o quella
+      - Caro nome
       collection: Rigoletto
     - songs:
       - Ah, forse lui che l’anima
@@ -686,6 +693,16 @@ arias:
     - songs:
       - Laudate Dominum
       collection: Vesperae solennes de Confessore
+
+# jazz:
+#   Type:
+#     Composer:
+#     - songs:
+#       - song1
+#       - song2
+#       collection: Collection Name
+#       opus: My Opus
+  
 ---
 
 #### Classical Vocal Collaborative Repertoire
