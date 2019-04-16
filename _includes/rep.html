@@ -1,0 +1,21 @@
+<div>
+  <h2>{{ include.title }}</h2>
+  {% for item in include.items %}
+  <h3>{{ item[0] }}</h3>
+  {% for composer in item[1] %}
+  <ul>
+    <li>{{ composer[0] }}
+      <ul>
+        {% for work in composer[1] %}
+        <li>{%- for song in work.songs %}{% if forloop.first == false %}; {% endif %}{{ song }}{% endfor -%}
+          {%- if work.collection %} - <em>{{ work.collection }}</em>{%- endif -%}
+          {%- if work.opus -%}, {{ work.opus }}{%- endif -%}
+        </li>
+        {% endfor %}
+      </ul>
+
+    </li>
+  </ul>
+  {% endfor %}
+  {% endfor %}
+</div>
