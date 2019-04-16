@@ -95,6 +95,9 @@ art_songs:
       - Green
       collection: "Ariettes Oubliées"
     - songs:
+      - Les cloches
+      collection: Deux Romances
+    - songs:
       - "Clair du lune (1882)"
     - songs:
       - "Fleur des blés (1880)"
@@ -154,11 +157,8 @@ art_songs:
     - songs:
       - Im Zimmer
     Brahms:
-    - songs:
-      - Fünf Ophelia Lieder (1873) (not performed)
-    - songs:
-      - Der Gang zum Liebchen
-      opus: "Op. 48, No. 1"
+    #- songs:
+     # - Fünf Ophelia Lieder (1873) (not performed)
     - songs:
       - Von ewiger Liebe
       opus: "Op. 43, No. 1"
@@ -169,14 +169,14 @@ art_songs:
       - Botschaft
       opus: "Op. 47, No. 1"
     - songs:
+      - Der Gang zum Liebchen
+      opus: "Op. 48, No. 1"
+    - songs:
+      - Es träumte mir
+      opus: "Op. 57, No. 3"
+    - songs:
       - "Meine Liebe ist grün"
       opus: "Op. 63, No. 5"
-    - songs:
-      - Immer leiser wird mein Schlummer
-      opus: "Op. 105, No. 2"
-    - songs:
-      - "Schön war, das ich dir weihte"
-      opus: "Op. 95, No. 7"
     - songs:
       - "Vergebliches Ständchen"
       opus: "Op. 84, No. 4"
@@ -184,8 +184,20 @@ art_songs:
       - "Feldeinsamkeit"
       opus: "Op. 86, No. 2"
     - songs:
+      - "Der Jäger"
+      opus: "Op. 95, No. 4"
+    - songs:
+      - "Schön war, das ich dir weihte"
+      opus: "Op. 95, No. 7"
+    - songs:
+      - Wir wandelten
+      opus: "Op. 96, No. 2"
+    - songs:
       - Wie Melodien zieht es mir
       opus: "Op. 105, No. 1"
+    - songs:
+      - Immer leiser wird
+      opus: "Op. 105, No. 2"
     
     "Dohnányi":
     - songs:
@@ -224,6 +236,10 @@ art_songs:
     - songs:
       - 'Romanze aus "Rosamunde"'
       opus: "Op. 26, D. 797"
+    - songs:
+      - Lachen und Weinen
+    - songs:
+      - Seligkeit 
     - songs:
       - Am Feierabend
     - songs:
@@ -389,15 +405,16 @@ art_songs:
     Liszt:
     - songs:
       - Pace non trovo
+    Parisotti:
+    - songs:
+      - Se tu m'ami
     Rossini:
     - songs:
       - Ecco quel fiero istante
       collection: La Partenza
     A. Scarlatti:
     - songs:
-      - O cessate di piagarmi
-    - songs:
-      - Le Violette
+      - Sento nel core
     Verdi:
     - songs:
       - In solitaria stanza
@@ -442,13 +459,19 @@ arias:
     Gershwin:
     - songs:
       - "I Got Plenty o’ Nuttin’"
+      - Summertime
       collection: Porgy & Bess
+    Gilbert and Sullivan:
+    - songs:
+      - complete
+      collection: Iolanthe
+      opus: (Pianist for the Sudbury Savoyards, September 2018)
     Handel:
     - songs:
-      - How Beautiful are the Feet
-      - Rejoice greatly O daughter of Zion
-      - I Know that my Redeemer Liveth
       - O Thou that Tellest Good Tidings to Zion
+      - Rejoice Greatly O Daughter of Zion
+      - How Beautiful are the Feet
+      - I Know that my Redeemer Liveth
       collection: Messiah
     - songs:
       - Come and Trip It
@@ -482,6 +505,8 @@ arias:
     Bizet:
     - songs:
       - "Je dis que rien ne m’épouvante"
+    #- songs:
+      #- Quintette after scene 4
       collection: Carmen
     Charpentier:
     - songs:
@@ -536,6 +561,7 @@ arias:
       - Ei! wis schmeckt der Coffee süsse
       - Heute noch, heute noch, lieber Vater
       collection: Coffee Cantata
+      opus: BWV 211 
     - songs:
       - Mache dich, mein Herze, rein
       collection: St. Matthew Passion
@@ -619,6 +645,7 @@ arias:
       collection: Paride ed Elena
     Handel:
     - songs:
+      - Ah! mio cor
       - M’inganna, me n’avveggo… Un momento di contento dolce
       - Semplicetto! A donna credi?
       collection: Alcina
@@ -671,6 +698,13 @@ arias:
     - songs:
       - Una voce poco fa
       collection: Il Barbiere di Siviglia
+    A. Scarlatti:
+    - songs:
+      - O cessate di piagarmi
+      collection: Pompeo
+    - songs:
+      - Le Violette
+      collection: Pirro e Demetrio
     Verdi:
     - songs:
       - Saper vorreste
