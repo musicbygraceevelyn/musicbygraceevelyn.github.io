@@ -7,7 +7,7 @@ layout: default
 
 {% capture col1 %}
 
-Hi, thanks so much for visiting my website.  If there is anything I can do to help you with your performance, accompaniment, coaching or ensemble needs, please feel free to email me using this website name (without spaces) @gmail.com and I will contact you as quickly as I can!
+Hi, thanks so much for visiting my website.  If there is anything I can do to help you with your performance, accompaniment, coaching or ensemble needs, please feel free to email me using my website's name (without spaces) @gmail.com and I will contact you as quickly as I can!
 
 ![Grace](/assets/images/Grace-Signature.png)
 

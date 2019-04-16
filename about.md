@@ -18,7 +18,7 @@ I love helping every musician I work with improve their sound and feel more conf
 
 I love languages! And I love hearing you nail it while singing so that you sound like a native speaker. I have studied English, French, German, Spanish and Italian and took a quick crash course in Czech, and have the pleasure of visiting countries where these languages are spoken and have been able to listen to native speakers. I would love to work with you to pass on what I have learned and help you sound your absolute best. In addition to pronunciation, we'll talk about the story behind the lyrics and find the story you want to share when you're performing.
 
-[Vocal Repertoire List](vocal_rep)
+See my [vocal repertoire resume](vocal_rep) for a complete listing of works performed.
 
 {% endcapture %}
 
@@ -31,8 +31,6 @@ I love languages! And I love hearing you nail it while singing so that you sound
 {% capture instrumental_col1 %}
 
 I have experience working with the following instruments in one-on-one and chamber music settings: Cello, Flute, French Horn, Oboe, Saxophone, Viola, and Violin.I love the rehearsal process and I enjoy discovering the music with those I work with. My main focus is on ensuring our overall sound is unified, balanced, and true to the composer's markings.
-
-See my repertoire resume for complete listing of works performed.
 
 {% endcapture %}
 
@@ -57,7 +55,7 @@ See my repertoire resume for complete listing of works performed.
 
 {% capture large_ensem_col2 %}
 
-I have two decades of experience accompanying adult and children's choirs in many different genres of music. Within the last four years, I have performed seven times with college orchestras. See my repertoire resume for complete listing of works performed.
+I have two decades of experience accompanying adult and children's choirs in many different genres of music. Within the last four years, I have performed seven times with college orchestras.
 
 {% endcapture %}
 

@@ -54,6 +54,7 @@ art_songs:
     "Ives":
     - songs:
       - Afterglow (1919)
+    - songs:
       - Two Little Flowers (1921)
     "Quilter":
     - songs:
@@ -66,7 +67,9 @@ art_songs:
     "Vaughn Williams":
     - songs:
       - Silent Noon
+    - songs:
       - The Sky Above the Roof
+    - songs:
       - The Vagabond
   French:
     "Berlioz":
@@ -351,7 +354,7 @@ art_songs:
       - Der Gärtner
       - Zitronenfalter im April
       collection: Mörike-Lieder
-      opus: "No.6,12,17-18"
+      opus: "No.6, 12, 17-18"
     - songs:
       - Gebet
     - songs:
