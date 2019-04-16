@@ -15,6 +15,9 @@ art_songs:
     - songs:
       - Sure on this shining night
       opus: Op. 13, No. 13
+    - songs:
+      - St. Ita's Vision
+      opus: Op. 29, No. 3
     "Beach":
     - songs:
       - I send my heart up to thee

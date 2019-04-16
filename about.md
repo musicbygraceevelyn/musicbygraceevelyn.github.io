@@ -55,7 +55,7 @@ I have experience working with the following instruments in one-on-one and chamb
 
 {% capture large_ensem_col2 %}
 
-I have two decades of experience accompanying adult and children's choirs in many different genres of music. Within the last four years, I have performed seven times with college orchestras.
+I have two decades of experience accompanying adult and children's choirs in many different genres of music, and am currently working as a choral accompanist in the Belmont public school system. Additionally, within the last three years, I have performed eight times with various college and community orchestras.
 
 {% endcapture %}
 
