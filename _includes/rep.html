@@ -1,24 +1,30 @@
-
-  <h2>{{ include.title }}</h2>
+<h3>
+  <a data-toggle="collapse" href="#{{ include.card_id }}" role="button" aria-expanded="false"
+    aria-controls="{{ include.card_id }}">
+    {{ include.title }}
+  </a>
+</h3>
+<div class="collapse" id="{{ include.card_id }}">
   {% for item in include.items %}
   <h3>{{ item[0] }}</h3>
- 
+
   {% for composer in item[1] %}
   <div class="row justify-content-center">
     <div class="col-sm-2">
-    {{ composer[0] }}
+      {{ composer[0] }}
     </div>
 
     <div class="col-sm-6">
-    <ul>
-          {% for work in composer[1] %}
-          <li>{%- for song in work.songs %}{% if forloop.first == false %}; {% endif %}{{ song }}{% endfor -%}
-            {%- if work.collection %} - <em>{{ work.collection }}</em>{%- endif -%}
-            {%- if work.opus -%}, {{ work.opus }}{%- endif -%}
-          </li>
-          {% endfor %}
-    </ul>
+      <ul>
+        {% for work in composer[1] %}
+        <li>{%- for song in work.songs %}{% if forloop.first == false %}; {% endif %}{{ song }}{% endfor -%}
+          {%- if work.collection %} - <em>{{ work.collection }}</em>{%- endif -%}
+          {%- if work.opus -%}, {{ work.opus }}{%- endif -%}
+        </li>
+        {% endfor %}
+      </ul>
     </div>
   </div>
-{% endfor %}
-{% endfor %}
+  {% endfor %}
+  {% endfor %}
+</div>

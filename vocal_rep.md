@@ -803,12 +803,19 @@ arias:
   
 ---
 
-#### Classical Vocal Collaborative Repertoire
+### Classical Vocal Collaborative Repertoire
 
 {% include titleborder %}
 
-{% include rep.html title="Art Songs" items=page.art_songs %}
 
-{% include titleborder %}
+<div id="accordion">
+{% include rep.html title="Art Songs"
+                    items=page.art_songs
+                    parent_id="accordion"
+                    card_id="art_songs" %}
 
-{% include rep.html title="Arias - Operas, Oratorios, Cantatas" items=page.arias %}
+{% include rep.html title="Arias - Operas, Oratorios, Cantatas"
+                    items=page.arias
+                    parent_id="accordion"
+                    card_id="arias" %}
+</div>
