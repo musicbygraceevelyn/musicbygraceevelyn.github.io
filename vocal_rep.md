@@ -49,7 +49,7 @@ art_songs:
       - Frustration
     - songs:
       - Message
-    "Copland":
+    Copland:
     - songs:
       - "The Boatmen’s Dance (Minstrel song from 1843)"
       collection: Old American Songs
