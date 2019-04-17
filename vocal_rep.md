@@ -11,14 +11,18 @@ art_songs:
       opus: Op. 12, Nos. 1-3
 
   English:
-    "Barber":
+    Barber:
+    - songs:
+      - Little Children of the Wind
+      - Longing
+      collection: Two Poems of the Wind
     - songs:
       - Sure on this shining night
       opus: Op. 13, No. 13
     - songs:
       - St. Ita's Vision
       opus: Op. 29, No. 3
-    "Beach":
+    Beach:
     - songs:
       - I send my heart up to thee
       collection: Three Browning Songs
@@ -26,13 +30,17 @@ art_songs:
     - songs:
       - Springtime
       opus: Op. 124
-    "Britten":
+    Bernstein:
+    - songs:
+      - complete
+      collection: La Bonne Cuisine
+    Britten:
     - songs:
       - Proud Songsters
       - At the Railway Station Upway
       collection: Winter Words
       opus: "Op. 52, Nos. 6-7"
-    "Charles":
+    Charles:
     - songs:
       - The White Swan
     - songs:
@@ -59,6 +67,14 @@ art_songs:
       - Afterglow (1919)
     - songs:
       - Two Little Flowers (1921)
+    Larsen:
+    - songs:
+      - So Like Your Father's
+      - He Never Misses
+      - A Man Can Love Two Women
+      - A Working Woman
+      - All I Have
+      collection: Songs from Letters, Calamity Jane to her daughter Janey 1880-1902
     "Quilter":
     - songs:
       - "Love's Philosophy"
@@ -107,9 +123,13 @@ art_songs:
       - "La Belle au Bois dormant"
     - songs:
       - "Voici que le Printemps"
+    - songs:
+      - Romance 
     "Faure":
     - songs:
       - "Après un Rȇve"
+    - songs:
+      - Chant d'automne
     - songs:
       - "Ici-bas!"
     - songs:
@@ -301,10 +321,6 @@ art_songs:
       - Ganymed
       opus: Op. 19, No. 3
     - songs:
-      - Der Knabe mit dem Wunderhorn
-      collection: Drei Gedichte
-      opus: Op. 30, No. 1
-    - songs:
       - Widmung
       - Der Nussbaum
       collection: Myrthen
@@ -313,14 +329,19 @@ art_songs:
       - Jasminenstrauch
       opus: Op. 27, No. 4
     - songs:
+      - Der Knabe mit dem Wunderhorn
+      collection: Drei Gedichte
+      opus: Op. 30, No. 1
+    - songs:
       - In der Fremde
       - Waldegespräch
       - Im Walde
       collection: Liederkreis
       opus: "Op. 39, Nos. 1, 3 and 11"
     - songs:
+      - Er, der Herrlichste von Allen
       - Du Ring an meinem Finger
-      opus: Op. 42, No. 4
+      opus: Op. 42, No. 2 and 4
     - songs:
       - Im wunderschönen Monat Mai
       collection: Dichterliebe
@@ -330,6 +351,9 @@ art_songs:
       opus: Op. 72
     - songs:
       - Volksliedchen
+    - songs:
+      - Er ist's
+      opus: "Op. 79, No. 24"
     "Schönberg/Schoenberg":
     - songs:
       - complete
@@ -342,7 +366,10 @@ art_songs:
     - songs:
       - Alphorn
     - songs:
-      - Morgen
+      - All Mein Gedanken
+    - songs:
+      - Morgen!
+      opus: "Op. 27, No. 4"
     - songs:
       - Allerseelen
     - songs:
@@ -361,6 +388,9 @@ art_songs:
     - songs:
       - Schlechtes Wetter
       opus: Op. 69, No. 5
+    - songs:
+      - Wiegenlied
+      opus: "Op. 41a, No. 1"
     Weill:
     - songs:
       - Berlin im Licht Song
@@ -384,6 +414,13 @@ art_songs:
       - An eine Aeolscharfe
     - songs:
       - Nimmersatte Liebe
+    - songs:
+      - Ich hab in Penna einen Liebsten
+      collection: Italienisches Liederbuch 3, No. 46
+    - songs:
+      - Heimweh
+      collection: Eichendorff Lieder
+
   Italian:
     Bellini:
     - songs:
@@ -424,6 +461,7 @@ art_songs:
       - Di due rai languire
       collection: Four Arias
       opus: "No. 1"
+
   Spanish:
     Granados:
     - songs:
@@ -442,6 +480,9 @@ art_songs:
     Montsalvatge:
     - songs:
       - Canto Negro
+    Obradors:
+    - songs:
+      - Corazon, porqué pasais
     Turina:
     - songs:
       - Los dos miedos
@@ -479,6 +520,10 @@ arias:
     - songs:
       - Total Eclipse
       collection: Samson
+    Harbison:
+    - songs:
+      - Waiting
+      collection: The Great Gatsby
     Menotti:
     - songs:
       - Steal me, sweet thief
@@ -566,6 +611,10 @@ arias:
       - Mache dich, mein Herze, rein
       collection: St. Matthew Passion
       opus: BWV 244
+    - songs:
+      - Zerfliesse, mein Herze
+      collection: St. John Passion
+      opus: BWV 245
     Beethoven:
     - songs:
       - "O wär’ ich schon mit dir vereint"
@@ -592,6 +641,10 @@ arias:
     - songs:
       - Bester Jüngling
       collection: "Der Schauspieldirektor"
+    - songs:
+      - Ach, ich fühl's
+      - Dies Bildnis ist bezaubernd schön
+      collection: "Die Zauberflöte"
     "J. Strauss":
     - songs:
       - Klänge der Heimat (Csárdás lied)
@@ -660,13 +713,17 @@ arias:
       - In uomini, in soldati
       - Una donna a quindici anni
       - Smanie implacabili
+      - Temerari... Come scoglio
+      - Donne mie la fate a tanti
       collection: Così fan tutte
     - songs:
+      - Madamina! Il catalogo
       - In quali eccessi... Mi tradì quell’alma
       - Ah! fuggi il traditor!
       - Il mio tesoro
       - Fin ch’han dal vino calda la testa
       - Ma se colpa... Batti, batti o bel Masetto
+      - Crudele?... Non mi dir
       collection: Don Giovanni
     - songs:
       - S’io non moro a questi accenti
@@ -696,6 +753,7 @@ arias:
       collection: Negri
     Rossini:
     - songs:
+      - La calunnia
       - Una voce poco fa
       collection: Il Barbiere di Siviglia
     A. Scarlatti:
