@@ -99,7 +99,7 @@ art_songs:
       - Le Spectre de la Rose
     "Chabrier":
     - songs:
-      - "L’invitation au voyage (1870)"
+      - "L’invitation au voyage (voice & bassoon) (1870)"
     "Chaminade":
     - songs:
       - "L’anneau d’argent"
@@ -125,7 +125,7 @@ art_songs:
       - "Voici que le Printemps"
     - songs:
       - Romance 
-    "Faure":
+    "Fauré":
     - songs:
       - "Après un Rȇve"
     - songs:
@@ -133,10 +133,12 @@ art_songs:
     - songs:
       - "Ici-bas!"
     - songs:
-      - "La lune blanche luit dans les bois"
-    - songs:
-      - "Les Secret"
+      - Les Secret
       opus: "Op. 23, No. 3"
+    - songs:
+      - La lune blanche luit dans les bois
+      collection: La Bonne Chanson
+      opus: Op. 61, No. 3
     Hahn:
     - songs:
       - Si mes vers avaient des ailes
@@ -241,45 +243,23 @@ art_songs:
     Marx:
     - songs:
       - Japanishes Regenlied
+
     "Felix Mendelssohn":
     - songs:
       - Neue Liebe
       opus: "Op. 19, No. 4"
+
     Reger:
     - songs:
       - Waldeinsamkeit
       opus: "Op. 76, No. 3"
+
     Schubert:
     - songs:
       - "Erlkönig"
       opus: "Op. 1, D. 328"
     - songs:
-      - 'Romanze aus "Rosamunde"'
-      opus: "Op. 26, D. 797"
-    - songs:
-      - Lachen und Weinen
-    - songs:
       - Seligkeit 
-    - songs:
-      - Am Feierabend
-    - songs:
-      - Ave Maria
-      opus: Op. 52, No. 6
-    - songs:
-      - "Das Fischermädchen"
-      collection: Schwanengesang
-      opus: D. 957
-    - songs: 
-      - "Der Doppelgänger"
-    - songs:
-      - Der Lindenbaum
-      collection: Winterreisser
-      opus: No. 5
-    - songs:
-        Frühlingstraum
-    - songs:
-      - Grenzen der Menschheit (Wenn der uralte heilige Vater)
-      opus: D. 716
     - songs:
       - Gretchen am Spinnrade
       opus: Op. 2, No. 31
@@ -287,26 +267,59 @@ art_songs:
       - "Heidenröslein"
       opus: "Op. 3, No. 3"
     - songs:
+      - Der Wanderer
+      opus: "Op. 4, No. 1"
+    - songs:
+      - "Der Tod und das Mädchen"
+      opus: Op. 7, No. 8
+    - songs:
       - "Im Abendroth"
     - songs:
+      - Ganymed
+      opus: Op. 19, No. 3
+    - songs:
+      - Wohin?
+      - Am Feierabend
       - "Mein!"
+      collection: "Die schöne Müllerin"
+      opus: "Op. 25, D. 795, No. 2, 5 and 11"
+    - songs:
+      - 'Romanze aus "Rosamunde"'
+      opus: "Op. 26, D. 797"
     - songs:
       - "Nacht und Träume"
       opus: "Op. 43, No. 2, D. 827"
     - songs:
+      - Ave Maria
+      opus: Op. 52, No. 6
+    - songs:
       - Nachtviolen
+    - songs:
+      - Lachen und Weinen
+      opus: "Op. 59. No. 4"
     - songs:
       - Lied der Mignon
       opus: "Op. 62, No. 4"
     - songs:
+      - Auf dem Wasser zu singen
+      opus: Op. 72
+    - songs:
       - "An die Musik"
       opus: "Op. 88, No. 4"
     - songs:
-      - Seligkeit 
+      - Der Lindenbaum
+      - "Frühlingstraum"
+      collection: Winterreisser
+      opus: Op. 89, D. 911, No. 5 and 11
     - songs:
-      - Wohin?
-      collection: "Die schöne Müllerin"
-      opus: "Op. 25, D. 795, No. 2"
+      - Grenzen der Menschheit (Wenn der uralte heilige Vater)
+      opus: D. 716
+    - songs:
+      - "Das Fischermädchen"
+      - "Der Doppelgänger"
+      collection: Schwanengesang
+      opus: D. 957, Nos. 10 and 13
+    
     "C. Schumann":
     - songs:
       - "Er ist gekommen in Sturm und Regen"
@@ -316,10 +329,8 @@ art_songs:
     - songs:
       - Sie liebten sich beide
       opus: Op. 13, No. 2
+
     "R. Schumann":
-    - songs:
-      - Ganymed
-      opus: Op. 19, No. 3
     - songs:
       - Widmung
       - Der Nussbaum
@@ -364,7 +375,7 @@ art_songs:
       - Das Heimliche Lied, for clarinet and piano
     "R. Strauss":
     - songs:
-      - Alphorn
+      - "Alphorn (soprano, French horn, & piano)"
     - songs:
       - All Mein Gedanken
     - songs:
@@ -791,16 +802,168 @@ arias:
     - songs:
       - Laudate Dominum
       collection: Vesperae solennes de Confessore
+mt:
+  none:
+    Adamo:
+    - songs:
+      - Things Change, Jo
+      collection: Little Women
+    Bernstein:
+    - songs: 
+      - Lonely Town
+      collection: On the Town
+    - songs:
+      - "What a Movie!"
+      collection: Trouble in Tahiti
+    - songs:
+      - Somewhere
+      - A Boy Like That and I Have a Love
+      collection: West Side Story
+    Bowen:
+    - songs:
+      - A Way Back to Then
+      - Secondary Characters
+      collection: Title of Show
+    J.R. Brown:
+    - songs:
+      - Another Life
+      collection: Bridges of Madison County
+    - songs:
+      - "If I Didn’t Believe In You"
+      - Still Hurting
+      collection: The Last Five Years
+    Bryan & DiPietro:
+    - songs:
+      - Colored Woman
+      collection: Memphis
+    Coleman & Zippel:
+    - songs:
+      - Funny
+      - "What You Don’t Know About Women"
+      collection: City of Angels
+    Contreras:
+    - songs:
+      - Love Me, Love Me Not
+    Gershwin:
+    - songs:
+      - "I Got Plenty o’ Nuttin’"
+      - Summertime
+      collection: "Porgy & Bess"
+    Gilbert & Sullivan:
+    - songs:
+      - complete
+      collection: Iolanthe
+    Kander & Ebb:
+    - songs:
+      - Dressing Them Up
+      - "She’s a Woman" 
+      collection: Kiss of the Spider Woman
+    - songs: 
+      - Sing Happy
+    Lerner & Loewe:
+    - songs:
+      - I Could Have Danced All Night
+      collection: My Fair Lady
+    - songs:
+      - If Ever I Would Leave You
+      collection: Camelot
+    LaChiusa:
+    - songs:
+      - He Wanted a Girl
+      collection: Giant
+    Menken & Ashman:
+    - songs:
+      - "Somewhere That’s Green" 
+      collection: Little Shop of Horrors
+    Menken & Slater:
+    - songs:
+      - Her Voice 
+      collection: The Little Mermaid
+    - songs:
+      - The Life I Never Led 
+      collection: Sister Act
+    Malloy:
+    - songs:
+      - No One Else
+      collection: The Great Comet of 1812
+    Rodgers & Hammerstein:
+    - songs:
+      - He Was Tall 
+      - In My Own Little Corner 
+      - Stepsisters’ Lament 
+      - Ten Minutes Ago
+      collection: Cinderella
+    - songs:
+      - Dites-moi
+      - Some Enchanted Evening 
+      collection: South Pacific
+    - songs:
+      - Something Wonderful 
+      collection: The King & I
+    - songs:
+      - Lonely Room 
+      collection: Oklahoma!
+    Schönberg, Kretzmer & Boublil:
+    - songs:
+      - Castle on a Cloud 
+      collection: Les Miserables
+    Schwartz:
+    - songs:
+      - Loathing
+      - For Good 
+      collection: Wicked
+    Sondheim:
+    - songs:
+      - Another Hundred People 
+      - Being Alive 
+      - Someone Is Waiting
+      collection: Company
+    - songs:
+      - I Know Things Now 
+      collection: nto the Woods
+    - songs:
+      - Not A Day Goes By 
+      collection: Merrily We Roll Along
+    - songs:
+      - Green Finch & Linnet Bird 
+      - My Friends 
+      collection: Sweeney Todd
+    - songs:
+      - What Can You Lose?
+      collection: Dick Tracy
+    Tesori & Scanlan:
+    - songs:
+      - What Do I Need with Love 
+      collection: Thoroughly Modern Millie
+    Webber & Hart:
+    - songs:
+      - Think of Me
+      - The Music of the Night 
+      - Wishing You Were Somehow Here Again
+      collection: Phantom of the Opera
+    Weill & Anderson:
+    - songs:
+      - The Wild Justice 
+      collection: Lost in the Stars
+    Weill & Lerner:
+    - songs:
+      - Mister Right 
+      collection: Love Life
+    Willson:
+    - songs:
+      - Till There Was You
+      collection: The Music Man
+
 
 # jazz:
 #   Type:
 #     Composer:
 #     - songs:
-#       - song1
-#       - song2
+#     - song1
+#     - song2
 #       collection: Collection Name
 #       opus: My Opus
-  
+
 ---
 
 ### Classical Vocal Collaborative Repertoire
@@ -818,4 +981,10 @@ arias:
                     items=page.arias
                     parent_id="accordion"
                     card_id="arias" %}
+
+{% include rep.html title="Musical Theater"
+                    items=page.mt
+                    parent_id="accordion"
+                    card_id="mt" %}
+                    
 </div>

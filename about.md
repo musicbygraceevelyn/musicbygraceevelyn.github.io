@@ -6,7 +6,7 @@ title: About
 
 {% include titleborder %}
 
-I love helping every musician I work with improve their sound and feel more confident in the music they are expressing! I love details but I will keep rehearsals productive and upbeat. With decades of experience, I can help prepare vocalists for full operatic roles as well as art song recitals and prepare instrumentalists for orchestral auditions. I enjoy working with composers and performing their newest works as well!  I hold a Masters of Music in Collaborative Piano from the Boston Conservatory at Berklee. I live and work in the greater Boston area with my husband, my piano, and our one car. We love music, Thai food, chocolate, and time spent with friends. I hope to meet you soon!
+I love helping every musician I work with improve their sound and feel more confident in the music they are expressing! I love details but I will keep rehearsals productive and upbeat. With decades of experience, I can help prepare vocalists for full operatic roles as well as art song recitals and prepare instrumentalists for orchestral auditions. I enjoy working with composers and performing their newest works as well!  I hold a Masters of Music in Collaborative Piano from the Boston Conservatory at Berklee. I live and work in the greater Boston area with my husband and our grand piano. We love music, Thai food, chocolate, and time spent with friends. I hope to meet you soon!
 
 {% capture vocal_col1 %}
 
