@@ -647,11 +647,11 @@ arias:
       collection: Die Lustige Witwe
     Mozart:
     - songs:
+      - Bester Jüngling
+      collection: Der Schauspieldirektor
+    - songs:
       - O wie will ich triumphiren
       collection: Die Entführang aus dem Serail
-    - songs:
-      - Bester Jüngling
-      collection: "Der Schauspieldirektor"
     - songs:
       - Ach, ich fühl's
       - Dies Bildnis ist bezaubernd schön
@@ -860,6 +860,7 @@ mt:
       collection: Kiss of the Spider Woman
     - songs: 
       - Sing Happy
+      collection: Flora the Red Menace
     Lerner & Loewe:
     - songs:
       - I Could Have Danced All Night
@@ -887,6 +888,9 @@ mt:
       - No One Else
       collection: The Great Comet of 1812
     Rodgers & Hammerstein:
+    - songs:
+      - Mister Snow
+      collection: Carousel 
     - songs:
       - He Was Tall 
       - In My Own Little Corner 
@@ -916,6 +920,7 @@ mt:
     - songs:
       - Another Hundred People 
       - Being Alive 
+      - Getting Married
       - Someone Is Waiting
       collection: Company
     - songs:
