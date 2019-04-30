@@ -891,7 +891,7 @@ mt:
     - songs:
       - Mister Snow
       collection: Carousel 
-    - songs:
+    - songs:Mister Snow
       - He Was Tall 
       - In My Own Little Corner 
       - Stepsisters’ Lament 
@@ -925,7 +925,7 @@ mt:
       collection: Company
     - songs:
       - I Know Things Now 
-      collection: nto the Woods
+      collection: Into the Woods
     - songs:
       - Not A Day Goes By 
       collection: Merrily We Roll Along
