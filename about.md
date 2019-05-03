@@ -6,7 +6,7 @@ title: About
 
 {% include titleborder %}
 
-I love helping every musician I work with improve their sound and feel more confident in the music they are expressing! I love details but I will keep rehearsals productive and upbeat. With decades of experience, I can help prepare vocalists for full operatic roles as well as art song recitals and prepare instrumentalists for orchestral auditions. I enjoy working with composers and performing their newest works as well!  I hold a Masters of Music in Collaborative Piano from the Boston Conservatory at Berklee. I live and work in the greater Boston area with my husband and our grand piano. We love music, Thai food, chocolate, and time spent with friends. I hope to meet you soon!
+I love helping every musician I work with improve their sound and feel more confident in the music they are expressing! I love details but I will keep rehearsals productive and upbeat. With decades of experience, I can help vocalists prepare for full operatic roles as well as art song recitals and prepare instrumentalists for orchestral auditions. I enjoy working with composers and performing their newest works as well! It is always an honor to be a part of premiering new music. I hold a Masters of Music in Collaborative Piano from the Boston Conservatory at Berklee. I live and work in the greater Boston area with my husband and our grand piano. Hope to meet you soon!
 
 {% capture vocal_col1 %}
 
@@ -30,7 +30,7 @@ See my [vocal repertoire resume](vocal_rep) for a complete listing of works perf
 
 {% capture instrumental_col1 %}
 
-I have experience working with the following instruments in one-on-one and chamber music settings: Cello, Flute, French Horn, Oboe, Saxophone, Viola, and Violin.I love the rehearsal process and I enjoy discovering the music with those I work with. My main focus is on ensuring our overall sound is unified, balanced, and true to the composer's markings.
+I have experience working with the following instruments in one-on-one and chamber music settings: Cello, Flute, French Horn, Oboe, Saxophone, Viola, and Violin. I love the rehearsal process and I enjoy discovering the music with those I work with. My main focus is on ensuring our overall sound is unified, balanced, and true to the composer's markings in the score.
 
 {% endcapture %}
 
@@ -68,7 +68,7 @@ I have two decades of experience accompanying adult and children's choirs in man
 
 {% capture solo_col1 %}
 
-Grace is also a classically trained pianist available for solo performances.
+Though my piano training was primarily in the classical tradition, I enjoy performing other styles as well, including gospel, musical theater, pop, and rock. Please contact me if you need a pianist for events such as weddings, funerals, fundraising events, and parties.
 
 {% endcapture %}
 

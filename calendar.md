@@ -12,11 +12,11 @@ layout: single
 
 May 3 at 7pm - Belmont High School POPS Concert part 1, Belmont High School, Belmont, MA 02478
 
-May 3 at 8pm - Jesus Saens' Violin Master's Recital, Boston Conservatory at Berklee, Boston, MA 02215
+May 3 at 8:30pm - Jesus Saens' Violin Master's Recital, Boston Conservatory at Berklee, 132 Ipswich St, Boston, MA 02215
 
 May 4 at 7pm - Belmont High School POPS Concert part 2, Belmont High School, Belmont, MA 02478
 
-May 11 at 1pm - Klassical Kidz Studio Recital, Arlington Town Hall, Arlington, MA
+May 11 at 1:30pm - Klassical Kidz Studio Recital, Arlington Masonic Hall, 19 Academy St, Arlington, MA ~ www.klassical-kidz-music-studio.com
 
 May 26 at 1pm - Dorisiya's Violin Studio Recital at Coolidge Corner Branch Public Library, 31 Pleasant St, Brookline, MA 02446
 

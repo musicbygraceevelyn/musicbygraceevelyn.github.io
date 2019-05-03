@@ -4,7 +4,7 @@ layout: single
 
 carousel_data:
 - title: PERFORMANCE
-  subtitle: CLASSICALLY TRAINED PIANIST AND VOCALIST
+  subtitle: CLASSICALLY TRAINED PIANIST
   image: Grace-Evelyn-Performance-e1526694645816-800x490.jpg
 - title: ACCOMPANIMENT
   subtitle: EXPERIENCED VOCAL AND INSTRUMENTAL ACCOMPANIST
