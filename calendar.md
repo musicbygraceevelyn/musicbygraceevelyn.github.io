@@ -10,17 +10,15 @@ layout: single
 2019 EVENTS -- Come join me!
 
 
-May 3 at 7pm - Belmont High School POPS Concert part 1, Belmont High School, Belmont, MA 02478
+May 26 at 1pm - Dorisiya Yosifova's Violin Studio Recital at Coolidge Corner Public Library, 31 Pleasant St, Brookline, MA 02446
 
-May 3 at 8:30pm - Jesus Saens' Violin Master's Recital, Boston Conservatory at Berklee, 132 Ipswich St, Boston, MA 02215
+June 6 at 7pm - 6th grade spring concert, Chenery Middle School, Belmont, MA
 
-May 4 at 7pm - Belmont High School POPS Concert part 2, Belmont High School, Belmont, MA 02478
+June 8 at 7:30-9pm - VIP reception at the MFA's 2019 Summer Garden Party Gala, Museum of Fine Arts, 465 Huntington Ave, Boston, MA 02115 ~ www.mfa.org
 
-May 11 at 1:30pm - Klassical Kidz Studio Recital, Arlington Masonic Hall, 19 Academy St, Arlington, MA ~ www.klassical-kidz-music-studio.com
+June 10 at 9am - 5th grade spring concert, Chenery Middle School, Belmont, MA
 
-May 26 at 1pm - Dorisiya's Violin Studio Recital at Coolidge Corner Branch Public Library, 31 Pleasant St, Brookline, MA 02446
-
-May 30 at 7pm - 7th & 8th Grade Choir Concert, Chenery Middle School, Belmont, MA 02478
+June 14 at 9:30m - End of year concert, Burbank Elementary School, Belmont, MA
 
 Sept. 29 at 2pm - Song Recital with Stephanie Hollenberg, Waterstone at the Circle, 385 Chestnut Hill Ave, Boston, MA 02135
 

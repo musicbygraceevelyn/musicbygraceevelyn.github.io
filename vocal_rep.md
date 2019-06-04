@@ -806,6 +806,7 @@ mt:
   none:
     Adamo:
     - songs:
+      - Some Things Are Meant to Be
       - Things Change, Jo
       collection: Little Women
     Bernstein:
@@ -829,6 +830,7 @@ mt:
       - Another Life
       collection: Bridges of Madison County
     - songs:
+      - I Can Do Better Than That
       - "If I Didn’t Believe In You"
       - Still Hurting
       collection: The Last Five Years
@@ -940,6 +942,10 @@ mt:
     - songs:
       - What Do I Need with Love 
       collection: Thoroughly Modern Millie
+    Van Heusen & Burke:
+    - songs:
+      - Swinging on a Star
+      collection: Going My Way
     Webber & Hart:
     - songs:
       - Think of Me
