@@ -16,7 +16,7 @@ I love helping every musician I work with improve their sound and feel more conf
 
 {% capture vocal_col2 %}
 
-I love language and I love helping my singers nail the pronunciation of the text when their singing. I have studied English, French, German, Spanish and Italian and took a quick crash course in Czech. I have had the pleasure of visiting countries where these languages are spoken and been able to listen to native speakers. I would love to work with you to pass on what I have learned. In addition to pronunciation, we'll talk about the story behind the piece, find the story you want to share when you're performing, and work so you can sound your absolute best.
+I love languages and I love helping my singers nail the pronunciation of the text when they're singing. I have studied English, French, German, Spanish and Italian and took a quick crash course in Czech. I have had the pleasure of visiting countries where these languages are spoken and been able to listen to native speakers. I would love to work with you to pass on what I have learned! In addition to pronunciation, we'll talk about the story behind the piece, find the story you want to share when you're performing, and work so you can sound your absolute best.
 
 See my [vocal repertoire resume](vocal_rep) for a complete listing of works performed.
 
@@ -55,7 +55,7 @@ I have experience working with the following instruments in one-on-one and chamb
 
 {% capture large_ensem_col2 %}
 
-I have two decades of experience accompanying adult and children's choirs in many different genres of music. Additionally, within the last three years, I have performed eight times with various college and community orchestras.
+I have two decades of experience accompanying adult and children's choirs in many different genres of music. Additionally, within the last three years, I have performed eight times with the following orchestras: Brookline Symphony, Boston Conservatory Sinfonietta, Brevard Music Institute Orchestras, Vanity Lane ballet pit orchestra, and Opera Susquehanna pit orchestra.
 
 {% endcapture %}
 
