@@ -183,10 +183,8 @@ art_songs:
      # - Fünf Ophelia Lieder (1873) (not performed)
     - songs:
       - Von ewiger Liebe
-      opus: "Op. 43, No. 1"
-    - songs:
       - Die Mainacht
-      opus: "Op. 43, No. 2"
+      opus: "Op. 43, No. 1-2"
     - songs:
       - Botschaft
       opus: "Op. 47, No. 1"
@@ -207,19 +205,16 @@ art_songs:
       opus: "Op. 86, No. 2"
     - songs:
       - "Der Jäger"
-      opus: "Op. 95, No. 4"
-    - songs:
       - "Schön war, das ich dir weihte"
-      opus: "Op. 95, No. 7"
+      opus: "Op. 95, No. 4, 7"
     - songs:
       - Wir wandelten
       opus: "Op. 96, No. 2"
     - songs:
       - Wie Melodien zieht es mir
-      opus: "Op. 105, No. 1"
-    - songs:
       - Immer leiser wird
-      opus: "Op. 105, No. 2"
+      - Verrat
+      opus: "Op. 105, No. 1, 2, 5"
     
     "Dohnányi":
     - songs:
@@ -500,6 +495,12 @@ art_songs:
 
 arias:
   English:
+    Adamo:
+    - songs:
+      - Have Peace, Jo
+      - Some Things Are Meant to Be
+      - Things Change, Jo
+      collection: Little Women
     Barber:
     - songs:
       - Must the winter come so soon?
@@ -508,9 +509,14 @@ arias:
     - songs:
       - Injurious Hermia
       collection: A Midsummer Night’s Dream
+    Dove:
+    - songs:
+      - "Down you go - Controller's aria"
+      collection: Flight
     Gershwin:
     - songs:
-      - "I Got Plenty o’ Nuttin’"
+      - Bess, you is my woman now
+      - "I got plenty o’ nuttin’"
       - Summertime
       collection: Porgy & Bess
     Gilbert and Sullivan:
@@ -518,7 +524,18 @@ arias:
       - complete
       collection: Iolanthe
       opus: (Pianist for the Sudbury Savoyards, September 2018)
+    - songs:
+      - Pirate King
+      - "All is prepar'd... Stay, Fred'ric, stay! duet"
+      collection: Pirates of Penzance
+    Herbert:
+    - songs:
+      - "Art is Calling for Me (I want to be a prima donna)"
+      collection: The Enchantress
     Handel:
+    - songs: 
+      - See, the Raging Flames Arise
+      collection: Joshua
     - songs:
       - O Thou that Tellest Good Tidings to Zion
       - Rejoice Greatly O Daughter of Zion
@@ -564,10 +581,17 @@ arias:
     #- songs:
       #- Quintette after scene 4
       collection: Carmen
+    - songs:
+      - Au fond du temple, duet
+      collection: "Les Pêcheurs"
     Charpentier:
     - songs:
       - Depuis le jour
       collection: Louise 
+    Donizetti:
+    - songs:
+      - Par le rang
+      collection: "La fille du régiment"
     Gounod:
     - songs:
       - "Ah! Je veux vivre"
@@ -587,7 +611,7 @@ arias:
     Offenbach:
     - songs:
       - Elle a fui, la tourterelle!
-      collection: sLes Contes d’Hoffmann
+      collection: "Les Contes d’Hoffmann"
     "Saint-Saëns":
     - songs:
       - Amour! viens aider ma faiblesse!
@@ -654,7 +678,11 @@ arias:
       collection: Die Entführang aus dem Serail
     - songs:
       - Ach, ich fühl's
+      - Bei Männern welche Liebe fühlen
+      - Der Höller Rache
       - Dies Bildnis ist bezaubernd schön
+      - O zittre nicht
+      - "Zu Hülfe! Zu Hülfe! quartet"
       collection: "Die Zauberflöte"
     "J. Strauss":
     - songs:
@@ -669,17 +697,23 @@ arias:
     - songs:
       - O! Du mein holder Abendstern
       collection: Tannhäuser
-    "von Weber":
+    Weber:
     - songs:
-      - Und ob die Wolke
-      - Schweig’! Schweig’! damit dich niemand warnt
+      - Einst träumte
       - Kommt ein schlanker Bursch gegangen
+      - "Wie nahte mir... Leise, leise"
+      - "Schelm, halt' fest! duet"
+      - "Schweig’! Schweig’! damit dich niemand warnt"
+      - Und ob die Wolke
       collection: Der Freischütz
   Italian:
     Bellini:
     - songs:
       - Oh! quante volte
       collection: I Capuleti e i Montechhi
+    - songs:
+      - Casta Diva
+      collection: Norma
     Churubini:
     - songs:
       - Solo un pianto
@@ -733,8 +767,10 @@ arias:
       - Ah! fuggi il traditor!
       - Il mio tesoro
       - Fin ch’han dal vino calda la testa
+      - La ci darem la mano duet
       - Ma se colpa... Batti, batti o bel Masetto
       - Crudele?... Non mi dir
+      - Vedrai, carino
       collection: Don Giovanni
     - songs:
       - S’io non moro a questi accenti
@@ -751,13 +787,22 @@ arias:
       collection: Der Sylphe des Friedens
     Puccini:
     - songs:
-      - O mio babbino caro
-      collection: Gianni Schicchi
-    - songs:
-      - Mi chiamano Mimi
+      - "Mi chiamano Mimì"
       - Quando men vo
       - Donde lieta
       collection: "La Bohème"
+    - songs:
+      - Chi il bel sogno di Doretta
+      collection: Rondine 
+    - songs:
+      - complete
+      collection: Gianni Schicchi
+    - songs:
+      - complete
+      collection: Suor Angelica
+    - songs: 
+      - Recondita armonia
+      collection: Tosca
     Respighi:
     - songs:
       - Nebbie
@@ -776,14 +821,28 @@ arias:
       collection: Pirro e Demetrio
     Verdi:
     - songs:
+      - "Io l'ho perduta!"
+      collection: Don Carlo
+    - songs:
+      - Surta è la notte... Ernani, involami
+      collection: Ernani
+    - songs:
       - Saper vorreste
+      - Volta la terrea fronte alle stelle
       collection: Un Ballo in Maschera
+    - songs:
+      - Sul fil d'un soffio estesio
+      collection: Falstaff
+    - songs:
+      - "La vita è inferno all'infelice"
+      collection: La Forza del destino
     - songs:
       - Questa o quella
       - Caro nome
       collection: Rigoletto
     - songs:
       - Ah, forse lui che l’anima
+      - Pura siccome un angelo, duet
       collection: La Traviata
     - songs:
       - Che mai vegg’io! (Finale Primo)
@@ -804,11 +863,6 @@ arias:
       collection: Vesperae solennes de Confessore
 mt:
   none:
-    Adamo:
-    - songs:
-      - Some Things Are Meant to Be
-      - Things Change, Jo
-      collection: Little Women
     Bernstein:
     - songs: 
       - Lonely Town
@@ -855,6 +909,10 @@ mt:
     - songs:
       - complete
       collection: Iolanthe
+    Herbert:
+    - songs:
+      - "Art is Calling for Me (I want to be a prima donna)"
+      collection: The Enchantress
     Kander & Ebb:
     - songs:
       - Dressing Them Up

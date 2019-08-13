@@ -6,7 +6,7 @@ title: About
 
 {% include titleborder %}
 
-I love helping every musician I work with improve their sound and feel more confident in the music they are expressing! I love details but I will keep rehearsals productive and upbeat. With decades of experience, I can help vocalists prepare for full operatic roles as well as art song recitals and prepare instrumentalists for orchestral auditions. I enjoy working with composers and performing their newest works as well! It is always an honor to be a part of premiering new music. I hold a Masters of Music in Collaborative Piano from the Boston Conservatory at Berklee. I live and work in the greater Boston area with my husband and our grand piano. Hope to meet you soon!
+I love helping every musician I work with improve their sound and feel more confident in the music they are delivering! I love details but I will keep rehearsals productive and upbeat. With decades of experience, I can help vocalists prepare for full operatic roles as well as art song recitals and prepare instrumentalists for orchestral auditions. I enjoy working with composers and performing their newest works as well! It is always an honor to be a part of premiering new music. I hold a Masters of Music in Collaborative Piano from the Boston Conservatory at Berklee. I live and work in the greater Boston area with my husband and our grand piano. Hope to meet you soon!
 
 {% capture vocal_col1 %}
 
@@ -16,7 +16,7 @@ I love helping every musician I work with improve their sound and feel more conf
 
 {% capture vocal_col2 %}
 
-I love languages! And I love hearing you nail it while singing so that you sound like a native speaker. I have studied English, French, German, Spanish and Italian and took a quick crash course in Czech, and have the pleasure of visiting countries where these languages are spoken and have been able to listen to native speakers. I would love to work with you to pass on what I have learned and help you sound your absolute best. In addition to pronunciation, we'll talk about the story behind the lyrics and find the story you want to share when you're performing.
+I love language and I love helping my singers nail the pronunciation of the text when their singing. I have studied English, French, German, Spanish and Italian and took a quick crash course in Czech. I have had the pleasure of visiting countries where these languages are spoken and been able to listen to native speakers. I would love to work with you to pass on what I have learned. In addition to pronunciation, we'll talk about the story behind the piece, find the story you want to share when you're performing, and work so you can sound your absolute best.
 
 See my [vocal repertoire resume](vocal_rep) for a complete listing of works performed.
 
@@ -30,7 +30,7 @@ See my [vocal repertoire resume](vocal_rep) for a complete listing of works perf
 
 {% capture instrumental_col1 %}
 
-I have experience working with the following instruments in one-on-one and chamber music settings: Cello, Flute, French Horn, Oboe, Saxophone, Viola, and Violin. I love the rehearsal process and I enjoy discovering the music with those I work with. My main focus is on ensuring our overall sound is unified, balanced, and true to the composer's markings in the score.
+I have experience working with the following instruments in one-on-one and chamber music settings: Bassoon, Cello, Flute, French Horn, Oboe, Saxophone, Viola, and Violin. I love the rehearsal process and I enjoy discovering the music with those I work with. My main focus is ensuring our overall sound is unified, balanced, and true to the composer's markings in the score.
 
 {% endcapture %}
 
@@ -55,7 +55,7 @@ I have experience working with the following instruments in one-on-one and chamb
 
 {% capture large_ensem_col2 %}
 
-I have two decades of experience accompanying adult and children's choirs in many different genres of music, and am currently working as a choral accompanist in the Belmont public school system. Additionally, within the last three years, I have performed eight times with various college and community orchestras.
+I have two decades of experience accompanying adult and children's choirs in many different genres of music. Additionally, within the last three years, I have performed eight times with various college and community orchestras.
 
 {% endcapture %}
 
