@@ -2,7 +2,7 @@
 title: About
 ---
 
-## About
+## About Me
 
 {% include titleborder %}
 
