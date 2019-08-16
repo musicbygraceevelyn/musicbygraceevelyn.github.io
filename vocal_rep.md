@@ -1032,6 +1032,7 @@ mt:
 #     - song2
 #       collection: Collection Name
 #       opus: My Opus
+# With decades of experience, I can help vocalists prepare for full operatic roles as well as art song recitals and prepare instrumentalists for orchestral auditions. I enjoy working with composers and performing their newest works as well! It is always an honor to be a part of premiering new music.
 
 ---
 

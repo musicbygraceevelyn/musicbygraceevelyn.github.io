@@ -6,7 +6,7 @@ title: About
 
 {% include titleborder %}
 
-I love helping every musician I work with improve their sound and feel more confident in the music they are delivering! I love details but I will keep rehearsals productive and upbeat. With decades of experience, I can help vocalists prepare for full operatic roles as well as art song recitals and prepare instrumentalists for orchestral auditions. I enjoy working with composers and performing their newest works as well! It is always an honor to be a part of premiering new music. I hold a Masters of Music in Collaborative Piano from the Boston Conservatory at Berklee. I live and work in the greater Boston area with my husband and our grand piano. Hope to meet you soon!
+I love helping every musician I work with improve their sound and feel more confident in the music they are delivering! I love details but I will keep rehearsals productive and upbeat. I hold a Masters of Music in Collaborative Piano from the Boston Conservatory at Berklee and live in the greater Boston area with my husband and our grand piano. Hope to meet you soon!
 
 {% capture vocal_col1 %}
 
@@ -30,7 +30,7 @@ See my [vocal repertoire resume](vocal_rep) for a complete listing of works perf
 
 {% capture instrumental_col1 %}
 
-I have experience working with the following instruments in one-on-one and chamber music settings: Bassoon, Cello, Flute, French Horn, Oboe, Saxophone, Viola, and Violin. I love the rehearsal process and I enjoy discovering the music with those I work with. My main focus is ensuring our overall sound is unified, balanced, and true to the composer's markings in the score.
+I love the rehearsal process and enjoy discovering the music with my collaborators! My main focus is ensuring our overall sound is unified, balanced, and true to the composer's markings in the score. I have experience working with piano trios, quintets, and the following instruments one-on-one: Bassoon, Cello, Flute, French Horn, Harp, Marimba, Oboe, Saxophone, Viola, and Violin. 
 
 {% endcapture %}
 
@@ -55,7 +55,7 @@ I have experience working with the following instruments in one-on-one and chamb
 
 {% capture large_ensem_col2 %}
 
-I have two decades of experience accompanying adult and children's choirs in many different genres of music. Additionally, within the last three years, I have performed eight times with the following orchestras: Brookline Symphony, Boston Conservatory Sinfonietta, Brevard Music Institute Orchestras, Vanity Lane ballet pit orchestra, and Opera Susquehanna pit orchestra.
+I have two decades of experience accompanying adult and children's choirs in various genres of music. Within the last four years, I have performed eleven times with the following orchestras: Brookline Symphony, Boston Conservatory Sinfonietta, Brevard Music Institute Orchestra, Vanity Lane Ballet pit orchestra, and Opera Susquehanna pit orchestra. I have had the pleasure to perform under conductors Andrew Altenbach, JoAnn Falletta, Ken Lam, and Keith Lockhart.
 
 {% endcapture %}
 
