@@ -12,7 +12,7 @@ layout: single
 
 Sept. 27 at 7:30pm - Song Recital with Elizabeth Kinder, location TBD ~ https://www.elizabethkindermezzo.com/
 
-Sept. 29 at 2pm - Song Recital with Stephanie Hollenberg, Waterstone at the Circle, 385 Chestnut Hill Ave, Boston, MA 02135 
+Sept. 29 at 2pm - Song Recital with Stephanie Hollenberg, Waterstone at the Circle, 385 Chestnut Hill Ave, Boston, MA 02135 ~ https://www.stephaniehollenberg.com/
 
 
 # Past Highlights:
