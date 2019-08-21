@@ -1,6 +1,104 @@
 ---
 title: Calendar
 layout: single
+
+current_events:
+- date: Sept. 28, 2019
+  title: Song Recital
+  subtitle: Works by Berlioz, Rossini, Shostikovich, and others. Joined by Shannon Grace.
+  singer: Elizabeth Kinder and Brynne Pulver
+  website: https://www.elizabethkindermezzo.com/
+  cost: Free
+
+- date: Sept. 29, 2019
+  time: 2:00pm
+  title: Song Recital
+  subtitle: Songs from Into the Woods, Light in the Piazza, Secret Garden, Show Boat and more.
+  singer: Stephanie Hollenberg
+  website: https://www.stephaniehollenberg.com/
+  location: Waterstone at the Circle, 385 Chestnut Hill Ave, Boston, MA 02135
+  cost: Free
+
+past events:
+- date: Aug. 9-10, 2019
+  title: Suor Angelica and Gianni Schicchi
+  subtitle: Two of Puccini's most contrasting operas. One will break your heart and the other will make you laugh until your sides hurt. Each 50 minutes long, with a 15 minute intermission between. Refreshments available for purchase.
+  organization: Opera Susquehanna
+  website: https://www.operasusquehanna.org/
+  location: York Regional Technical School, York, PA
+
+- date: June 8, 2019
+  title: Summer Garden Party Gala, VIP reception
+  subtitle: The MFA's annual black tie event.
+  organization: Museum of Fine Arts
+  website: www.mfa.org/programs/special-event
+  location: 465 Huntington Ave, Boston, MA
+   
+- date: May 26, 2019
+  title: Violin Studio Recital
+  organization: Dorisiya Yosifova
+  location: Brookline branch, Boston Public Library, Brookline, MA
+
+- date: May 4, 2019
+  title: Studio Recital
+  organization: Klassical Kidz
+  subtitle: Spring recital for the violin, viola and piano students of Lydia and Adrienne Bassett, owners of Klassical Kidz Studio.
+  website: https://www.klassical-kidz-music-studio.com/
+  location: Town Hall, Massachusetts Ave, Arlington, MA
+
+- date: May 3, 2019
+  title: Masters Violin Recital
+  organization: Jesus Saenz
+  location: Ipswich Street, room 102, Boston Conservatory at Berklee, Boston, MA
+
+- date: April 3, 2019
+  title: Voice Studio Recital
+  organization: Christy Turnbow
+  location: Hemenway Street, room 401, Boston Conservatory at Berklee, Boston, MA
+  website: 
+
+- date: March 20, 2019
+  title: Masters French Horn Recital
+  organization: Maria D'Ambrosio
+  location: Seully Hall, 8 Fenway, Boston Conservatory at Berklee, Boston, MA 
+
+- date: Oct. 27, 2018
+  title: Season Opener
+  subtitle: Works by Clyne, Brahms, Tomasi
+  organization: Brookline Symphony Orchestra
+  location: Beacon Street, Brookline, MA
+  website: https://www.brooklinesymphony.org/
+
+- date: Sept. 13, 2018
+  title: Gilbert and Sullivan's operetta Iolanthe
+  organization: The Sudbury Savoyards
+  location: Shrewsbury, MA
+  website: http://www.sudburysavoyards.org/index.html
+
+- date: July 19, 2018
+  title: WQXR Young Artists Concert
+  location: Brevard, NC
+
+- date: June 22 - Aug. 4, 2018
+  title: Six performances with Brevard Music Institute orchestras.
+  organization:
+  location: Brevard, NC
+  website: https://www.brevardmusic.org/
+
+- date:
+  title:
+  organization:
+  location:
+
+- date:
+  title:
+  organization:
+  location:
+
+- date:
+  title:
+  organization:
+  location:
 ---
 
 ## Calendar

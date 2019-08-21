@@ -96,7 +96,10 @@ art_songs:
       - "La mort d’Ophélie"
       opus: Op. 18, No. 11
     - songs:
+      - Villanelle
       - Le Spectre de la Rose
+      collection: "Les Nuits D'Eté" 
+      opus: Nos. 1-2
     "Chabrier":
     - songs:
       - "L’invitation au voyage (voice & bassoon) (1870)"
@@ -552,6 +555,10 @@ arias:
     - songs:
       - Waiting
       collection: The Great Gatsby
+    Mechem:
+    - songs:
+      - Fair Robin I Love
+      collection: Tartuffe
     Menotti:
     - songs:
       - Steal me, sweet thief
@@ -570,7 +577,7 @@ arias:
     - songs:
       - Sweeter than roses
       collection: Pausanias
-    Weill:
+    Weill & Rice:
     - songs:
       - Lonely House
       collection: Street Scene
@@ -863,6 +870,10 @@ arias:
       collection: Vesperae solennes de Confessore
 mt:
   none:
+    Andersson, Rice, Ulvaeus:
+    - songs:
+      - Anthem
+      collection: Chess
     Bernstein:
     - songs: 
       - Lonely Town
@@ -878,16 +889,20 @@ mt:
     - songs:
       - A Way Back to Then
       - Secondary Characters
-      collection: Title of Show
+      collection: "[title of show]"
     J.R. Brown:
     - songs:
       - Another Life
+      - To Build a Home
       collection: Bridges of Madison County
     - songs:
       - I Can Do Better Than That
-      - "If I Didn’t Believe In You"
+      - If I Didn’t Believe In You
       - Still Hurting
       collection: The Last Five Years
+    - songs:
+      - Stars and the Moon
+      collection: Songs for a New World
     Bryan & DiPietro:
     - songs:
       - Colored Woman
@@ -897,9 +912,10 @@ mt:
       - Funny
       - "What You Don’t Know About Women"
       collection: City of Angels
-    Contreras:
+    Flaherty & Ahrens:
     - songs:
-      - Love Me, Love Me Not
+      - Raining
+      collection: Rocky The Musical
     Gershwin:
     - songs:
       - "I Got Plenty o’ Nuttin’"
@@ -909,10 +925,22 @@ mt:
     - songs:
       - complete
       collection: Iolanthe
+    Gordon:
+    - songs:
+      - Painting Her Portrait
+      collection: Jane Eyre
+    Guettel:
+    - songs:
+      - The Beauty Is
+      collection: The Light in the Piazza
     Herbert:
     - songs:
       - "Art is Calling for Me (I want to be a prima donna)"
       collection: The Enchantress
+    Iconis:
+    - songs:
+      - Joey is a Punk Rocker
+      collection: The Black Suits
     Kander & Ebb:
     - songs:
       - Dressing Them Up
@@ -921,17 +949,34 @@ mt:
     - songs: 
       - Sing Happy
       collection: Flora the Red Menace
+    Kitt & Yorkey:
+    - songs:
+      - Super Boy & the Invisible Girl
+      collection: Next to Normal
+    LaChiusa:
+    - songs:
+      - He Wanted a Girl
+      collection: Giant
     Lerner & Loewe:
     - songs:
       - I Could Have Danced All Night
       collection: My Fair Lady
     - songs:
+      - Before I Gaze at You Again
       - If Ever I Would Leave You
       collection: Camelot
-    LaChiusa:
+    Lippa & Crawley:
     - songs:
-      - He Wanted a Girl
-      collection: Giant
+      - Live Out Loud
+      collection: A Little Princess
+    Lopez & Anderson-Lopez:
+    - songs:
+      - Monster
+      collection: Frozen
+    Malloy:
+    - songs:
+      - No One Else
+      collection: The Great Comet of 1812
     Menken & Ashman:
     - songs:
       - "Somewhere That’s Green" 
@@ -943,10 +988,21 @@ mt:
     - songs:
       - The Life I Never Led 
       collection: Sister Act
-    Malloy:
+    Miranda:
     - songs:
-      - No One Else
-      collection: The Great Comet of 1812
+      - Burn
+      collection: Hamilton
+    - songs:
+      - Breathe
+      collection: In the Heights
+    Norman & Simon:
+    - songs:
+      - How Could I Ever Know?
+      collection: The Secret Garden
+    Rocicki:
+    - songs:
+      - My Grand Plan
+      collection: The Lightening Thief, The Percy Jackson Musical
     Rodgers & Hammerstein:
     - songs:
       - Mister Snow
@@ -967,16 +1023,26 @@ mt:
     - songs:
       - Lonely Room 
       collection: Oklahoma!
-    Schönberg, Kretzmer & Boublil:
+    Salzman & Cunningham:
     - songs:
-      - Castle on a Cloud 
-      collection: Les Miserables
+      - Even Though
+      collection: I Love You Because
     Schwartz:
     - songs:
       - Loathing
       - For Good 
       collection: Wicked
+    - songs:
+      - Stranger to the Rain
+      collection: Children of Eden
+    Schönberg, Kretzmer & Boublil:
+    - songs:
+      - Castle on a Cloud 
+      collection: Les Miserables
     Sondheim:
+    - songs:
+      - Send In the Clowns
+      collection: A Little Night Music
     - songs:
       - Another Hundred People 
       - Being Alive 
@@ -984,6 +1050,7 @@ mt:
       - Someone Is Waiting
       collection: Company
     - songs:
+      - Children Will Listen
       - I Know Things Now 
       collection: Into the Woods
     - songs:
@@ -991,11 +1058,15 @@ mt:
       collection: Merrily We Roll Along
     - songs:
       - Green Finch & Linnet Bird 
-      - My Friends 
+      - My Friends
       collection: Sweeney Todd
     - songs:
       - What Can You Lose?
       collection: Dick Tracy
+    Tesori & Kushner:
+    - songs:
+      - I Hate the Bus
+      collection: Caroline, or Change
     Tesori & Scanlan:
     - songs:
       - What Do I Need with Love 
@@ -1022,16 +1093,118 @@ mt:
     - songs:
       - Till There Was You
       collection: The Music Man
+jazz:
+  none:
+    Berlin:
+    - songs:
+      - Cheek to Cheek
+      - Love You Didn't Do Right By Me
+    Burke & Lee:
+    - songs:
+      - Bella Notte
+      collection: Lady & The Tramp
+    Ellington, James, Hodges, George:
+    - songs:
+      - I'm Beginning to See the Light
+    # Ellington
+    # - songs:
+    #  - I'm Just a Lucky So-and-So
+    G. & I. Gershwin:
+    - songs: 
+      - Embraceable You
+      - Love Is Here to Stay
+      - Love Walked In
+      - The Man I Love
+      - They Can't Take That Away from Me
+      # - Soon
+      # - I Only Have Eyes for You
+      # - All My Tomorrows
+      # - Come Rain or Come Shine
+      # - Day By Day
+      # - My Heart Stood Still
+    Heusen & Burke:
+    - songs:
+      - Swinging on a Star
+    Heusen & Cahn:
+    - songs:
+      - Love and Marriage
+    # Hines
+    # - songs:
+    #  - Don't Get Around Much Anymore
+    Kaper & Washington:
+    - songs:
+      - On Green Dolphin Street
+    Porter:
+    - songs:
+      - You'd Be So Nice to Come Home to
+      - So In Love
+    Scott:
+    - songs:
+      - Five Foot Two, Eyes of Blue
+    Shearing:
+    - songs:
+      - How About You?
+      - Moonlight Serenade
+      # - Everything I Have is Yours 
+    Waller:
+    - songs:
+      - I'm Sittin On Top of the World
+      - Two Sleepy People
+    Whiting & Mercer:
+    - songs:
+      - Too Marvelous for Words
+    Wilson:
+    - songs:
+      - I'll See You in My Dreams
 
+#pop
+#   Alan:
+#   - songs:
+#     - Never Neverland (Fly Away)
+#   Arlen & Harburg
+#   - songs:
+#     - Over the Rainbow
+#   Beatles:
+#   - songs:
+#     - Here Comes the Sun
+#   Caillat
+#   - songs:
+#     - Bubbly
+#   Contreras:
+#   - songs:
+#     - Love Me, Love Me Not
+#   Heath:
+#   - songs:
+#     - Love Never Fails
+#   Khoury & Baptiste
+#   - songs:
+#     - Sea of Love
+#   Lady Gaga, Garibay, Shadow:
+#   - songs:
+#     - Edge of Glory
+#   Lady Gaga, Ronson, Rossomando, Wyatt
+#   - songs:
+#     - Shallow
+#   Legend:
+#   - songs:
+#     - All of Me
+#   Magnetic Fields:
+#   - songs:
+#     - The Book of Love
+#   Mraz & Caillat
+#   - songs:
+#     - Lucky
+#   Perri:
+#   - songs:
+#     - A Thousand Years
+#   Piaf:
+#   - songs:
+#     - La Vie en Rose
+#rock    
+#    The Who
+#    - songs:
+#      - Acid Queen
 
-# jazz:
-#   Type:
-#     Composer:
-#     - songs:
-#     - song1
-#     - song2
-#       collection: Collection Name
-#       opus: My Opus
 # With decades of experience, I can help vocalists prepare for full operatic roles as well as art song recitals and prepare instrumentalists for orchestral auditions. I enjoy working with composers and performing their newest works as well! It is always an honor to be a part of premiering new music.
 
 ---
@@ -1056,5 +1229,10 @@ mt:
                     items=page.mt
                     parent_id="accordion"
                     card_id="mt" %}
-                    
+
+{% include rep.html title="Jazz"
+                    items=page.jazz
+                    parent_id="accordion"
+                    card_id="jazz" %}
+
 </div>
