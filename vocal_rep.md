@@ -870,6 +870,13 @@ arias:
       collection: Vesperae solennes de Confessore
 mt:
   none:
+    Ahrens & Flaherty:
+    - songs:
+      - Raining
+      collection: Rocky The Musical
+    - songs:
+      - Make Them Hear You
+      collection: Ragtime
     Andersson, Rice, Ulvaeus:
     - songs:
       - Anthem
@@ -907,20 +914,16 @@ mt:
     - songs:
       - Colored Woman
       collection: Memphis
+    Charnin & Strouse:
+    - songs:
+      - Maybe
+      - Tomorrow
+      collection: Annie
     Coleman & Zippel:
     - songs:
       - Funny
       - "What You Don’t Know About Women"
       collection: City of Angels
-    Flaherty & Ahrens:
-    - songs:
-      - Raining
-      collection: Rocky The Musical
-    Gershwin:
-    - songs:
-      - "I Got Plenty o’ Nuttin’"
-      - Summertime
-      collection: "Porgy & Bess"
     Gilbert & Sullivan:
     - songs:
       - complete
@@ -933,10 +936,18 @@ mt:
     - songs:
       - The Beauty Is
       collection: The Light in the Piazza
+    Harnick & Bock:
+    - songs:
+      - Vanilla Ice Cream
+      collection: She Loves Me
     Herbert:
     - songs:
       - "Art is Calling for Me (I want to be a prima donna)"
       collection: The Enchantress
+    Herman:
+    - songs:
+      - There's No Reason in the World
+      collection: Milk and Honey
     Iconis:
     - songs:
       - Joey is a Punk Rocker
@@ -979,7 +990,7 @@ mt:
       collection: The Great Comet of 1812
     Menken & Ashman:
     - songs:
-      - "Somewhere That’s Green" 
+      - Somewhere That’s Green
       collection: Little Shop of Horrors
     Menken & Slater:
     - songs:
@@ -1019,7 +1030,7 @@ mt:
       collection: South Pacific
     - songs:
       - Something Wonderful 
-      collection: The King & I
+      collection: The King and I
     - songs:
       - Lonely Room 
       collection: Oklahoma!
@@ -1039,6 +1050,10 @@ mt:
     - songs:
       - Castle on a Cloud 
       collection: Les Miserables
+    Shaiman:
+    - songs:
+      - They Just Keep Moving the Line
+      collection: Smash
     Sondheim:
     - songs:
       - Send In the Clowns
@@ -1063,6 +1078,10 @@ mt:
     - songs:
       - What Can You Lose?
       collection: Dick Tracy
+    Styne, Comden, Green:
+    - songs:
+      - Just in Time
+      collection: Bells are Ringing
     Tesori & Kushner:
     - songs:
       - I Hate the Bus
@@ -1091,6 +1110,7 @@ mt:
       collection: Love Life
     Willson:
     - songs:
+      - Goodnight, My Someone
       - Till There Was You
       collection: The Music Man
 jazz:
@@ -1167,6 +1187,9 @@ jazz:
 #   Beatles:
 #   - songs:
 #     - Here Comes the Sun
+#   Bublé, Chang, Gillies:
+#   - songs:
+#     - Home
 #   Caillat
 #   - songs:
 #     - Bubbly
@@ -1176,12 +1199,16 @@ jazz:
 #   Heath:
 #   - songs:
 #     - Love Never Fails
+#   Jones:
+#   - songs:
+#     - Come Away With Me
 #   Khoury & Baptiste
 #   - songs:
 #     - Sea of Love
 #   Lady Gaga, Garibay, Shadow:
 #   - songs:
 #     - Edge of Glory
+#     - Marry the Night
 #   Lady Gaga, Ronson, Rossomando, Wyatt
 #   - songs:
 #     - Shallow
@@ -1191,7 +1218,7 @@ jazz:
 #   Magnetic Fields:
 #   - songs:
 #     - The Book of Love
-#   Mraz & Caillat
+#   Mraz, Caillat, Fagan:
 #   - songs:
 #     - Lucky
 #   Perri:

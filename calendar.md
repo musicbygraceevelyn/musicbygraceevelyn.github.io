@@ -3,14 +3,16 @@ title: Calendar
 layout: single
 
 current_events:
-- date: Sept. 28, 2019
+- date: Saturday, Sept. 28, 2019
+  time: 2:30pm
   title: Song Recital
-  subtitle: Works by Berlioz, Rossini, Shostikovich, and others. Joined by Shannon Grace.
+  subtitle: Works by Berlioz, Rossini, Shostikovich, and others.
   singer: Elizabeth Kinder and Brynne Pulver
   website: https://www.elizabethkindermezzo.com/
+  location: Hunneman Hall, Brookline, MA
   cost: Free
 
-- date: Sept. 29, 2019
+- date: Sunday, Sept. 29, 2019
   time: 2:00pm
   title: Song Recital
   subtitle: Songs from Into the Woods, Light in the Piazza, Secret Garden, Show Boat and more.
@@ -85,20 +87,18 @@ past events:
   location: Brevard, NC
   website: https://www.brevardmusic.org/
 
-- date:
-  title:
-  organization:
-  location:
+- date: March 22-25, 2018
+  title: Debut of Vanity Lane Ballet. Music by Jackson, Hettrick, and Williams. Story and choreography by LaToya Princess Jackson.
+  location: Farkas Hall, Harvard University, Cambridge, MA
 
-- date:
-  title:
-  organization:
-  location:
+- date: April 30, 20117
+  title: Debut of an operetta by Daniel Choi.
+  location: Boston Conservatory at Berklee
 
-- date:
-  title:
-  organization:
-  location:
+- date: March 11, 2017
+  title: Debuted Frail Blue, a piece for violin & piano I commissioned by Manuel Garcia Albornoz.
+  location: Boston Conservatory at Berklee
+  website: http://www.mgarciamusic.com/welcome
 ---
 
 ## Calendar
