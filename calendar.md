@@ -4,12 +4,12 @@ layout: single
 
 current_events:
 - date: Saturday, Sept. 28, 2019
-  time: 2:30pm
+  time: 2:00pm
   title: Song Recital
   subtitle: Works by Berlioz, Rossini, Shostikovich, and others.
   singer: Elizabeth Kinder & Brynne Pulver
   website: https://www.elizabethkindermezzo.com/
-  location: Hunneman Hall, Brookline, MA
+  location: Hunneman Hall, Brooline Public Library, 361 Washington Street, Brookline, MA 02445
   cost: Free
 
 - date: Sunday, Sept. 29, 2019
@@ -18,7 +18,7 @@ current_events:
   subtitle: Songs from Into the Woods, Light in the Piazza, Secret Garden, Show Boat and more.
   singer: Stephanie Hollenberg
   website: https://www.stephaniehollenberg.com/
-  location: Waterstone at the Circle, 385 Chestnut Hill Ave, Boston, MA 02135
+  location: Waterstone at the Circle, 385 Chestnut Hill Avenue, Boston, MA 02135
   cost: Free
 
 past_events:
@@ -44,7 +44,7 @@ past_events:
 - date: May 4, 2019
   title: Studio Recital
   organization: Klassical Kidz
-  subtitle: Spring recital for the violin, viola and piano students of Lydia and Adrienne Bassett, owners of Klassical Kidz Studio.
+  subtitle: Spring recital for the violin, viola and piano students of Lydia and Adrienne Bassett, owners of Klassical Kidz Music Studio.
   website: https://www.klassical-kidz-music-studio.com/
   location: Town Hall, Massachusetts Ave, Arlington, MA
 
@@ -92,12 +92,13 @@ past_events:
   location: Farkas Hall, Harvard University, Cambridge, MA
 
 - date: April 30, 2017
-  title: Debut of an operetta by Daniel Choi
+  title: Debut of A Letter to Vanguard
+  subtitle: An operetta by Daniel Choi.
   location: Boston Conservatory at Berklee
 
 - date: March 11, 2017
-  title: Debuted Frail Blue
-  subtitle: A piece for violin & piano I commissioned by Manuel Garcia Albornoz
+  title: Debute of Frail Blue
+  subtitle: A piece for violin & piano I commissioned by Manuel Garcia Albornoz.
   location: Boston Conservatory at Berklee
   website: http://www.mgarciamusic.com/welcome
 
