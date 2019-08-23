@@ -1,0 +1,40 @@
+<ul class="list-group list-group-flush">
+  {% for item in include.items %}
+  <li class="list-group-item media">
+    <div class="media-body">
+      <h5 class="mt-0">
+        {% if item.title_url %}<a href="{{ item.title_url }}">{% endif %}
+        {{ item.title }}
+        {% if item.title_url %}</a>{% endif %}
+
+        {% if item.singer %}
+          with 
+          {% if item.singer_url %}<a href="{{ item.singer_url }}">{% endif %}
+          {{ item.singer }}
+          {% if item.singer_url %}</a>{% endif %}
+        {% endif %}
+
+        {% if item.organization %}
+          -
+          {% if item.org_url %}<a href="{{ item.org_url }}">{% endif %}
+          {{ item.organization }}
+          {% if item.org_url %}</a>{% endif %}
+        {% endif %}
+      </h5>
+      <h6 class="text-muted">{{ item.date }}{% if item.time %} @ {{ item.time }}{% endif %}</h6>
+      {% if item.subtitle %}<p>{{ item.subtitle }}</p>{% endif %}
+      <p class="small">
+        {% if item.location %}
+        {{ item.location }}
+        {% else %}
+        Location: TBD
+        {% endif %}
+        {% if item.cost %}({{ item.cost }}){% endif %}
+        {% if item.website %}
+      <br/><a href="{{ item.website }}">{{ item.website }}</a>
+      {% endif %}
+      </p>
+    </div>
+  </li>
+  {% endfor %}
+</ul>

@@ -7,7 +7,7 @@ current_events:
   time: 2:30pm
   title: Song Recital
   subtitle: Works by Berlioz, Rossini, Shostikovich, and others.
-  singer: Elizabeth Kinder and Brynne Pulver
+  singer: Elizabeth Kinder & Brynne Pulver
   website: https://www.elizabethkindermezzo.com/
   location: Hunneman Hall, Brookline, MA
   cost: Free
@@ -21,7 +21,7 @@ current_events:
   location: Waterstone at the Circle, 385 Chestnut Hill Ave, Boston, MA 02135
   cost: Free
 
-past events:
+past_events:
 - date: Aug. 9-10, 2019
   title: Suor Angelica and Gianni Schicchi
   subtitle: Two of Puccini's most contrasting operas. One will break your heart and the other will make you laugh until your sides hurt. Each 50 minutes long, with a 15 minute intermission between. Refreshments available for purchase.
@@ -82,80 +82,68 @@ past events:
   location: Brevard, NC
 
 - date: June 22 - Aug. 4, 2018
-  title: Six performances with Brevard Music Institute orchestras.
-  organization:
+  title: Six performances with Brevard Music Institute orchestras
   location: Brevard, NC
   website: https://www.brevardmusic.org/
 
 - date: March 22-25, 2018
-  title: Debut of Vanity Lane Ballet. Music by Jackson, Hettrick, and Williams. Story and choreography by LaToya Princess Jackson.
+  title: Debut of Vanity Lane Ballet
+  subtitle: Music by Jackson, Hettrick, and Williams. Story and choreography by LaToya Princess Jackson.
   location: Farkas Hall, Harvard University, Cambridge, MA
 
-- date: April 30, 20117
-  title: Debut of an operetta by Daniel Choi.
+- date: April 30, 2017
+  title: Debut of an operetta by Daniel Choi
   location: Boston Conservatory at Berklee
 
 - date: March 11, 2017
-  title: Debuted Frail Blue, a piece for violin & piano I commissioned by Manuel Garcia Albornoz.
+  title: Debuted Frail Blue
+  subtitle: A piece for violin & piano I commissioned by Manuel Garcia Albornoz
   location: Boston Conservatory at Berklee
   website: http://www.mgarciamusic.com/welcome
+
+
+
+# - date: 9/29/2019
+#   time: 2pm
+#   title: Song recital
+#   singer: Stephanie Hollenberg
+#   singer_url: https://www.stephaniehollenberg.com/
+#   location: Waterstone at the Circle, 385 Chestnut Hill Ave, Boston, MA 02135
+  
+
+# - date: 9/27/2019
+#   time: 7:30pm
+#   title: Song recital
+#   singer: Elizabeth Kinder
+#   singer_url: https://www.elizabethkindermezzo.com/
+
+# past_highlights:
+# - date: Aug 9-10, 2019
+#   title: Puccini's Gianni Schicchi and Suor Angelica
+#   location: York, PA
+#   org: Opera Susquehanna
+#   org_url: https://www.operasusquehanna.org/
+# - date: June 8, 2019
+#   title: Summer Garden Party Gala
+#   title_url: http://www.mfa.org/programs/special-event
+#   location: Boston, MA
+#   org: Museum of Fine Arts
+  
+
 ---
 
 ## Calendar
 
+<!--
+    nobody can see this
+-->
+
 {% include titleborder %}
 
-# 2019 Upcoming Events -- Come join me!
+### 2019 Upcoming Events -- Come join me!
 
+{% include events.html items=page.current_events %}
 
-Sept. 27 at 7:30pm - Song Recital with Elizabeth Kinder, location TBD ~ https://www.elizabethkindermezzo.com/
+### Past Highlights
 
-Sept. 29 at 2pm - Song Recital with Stephanie Hollenberg, Waterstone at the Circle, 385 Chestnut Hill Ave, Boston, MA 02135 ~ https://www.stephaniehollenberg.com/
-
-
-# Past Highlights:
-
-Aug. 9-10, 2019 - Puccini's Gianni Schicchi and Suor Angelica, Opera Susquehanna, York, PA ~ https://www.operasusquehanna.org/
-
-June 8, 2019 - Museum Fine Arts Summer Garden Party Gala, Boston, MA ~ www.mfa.org/programs/special-event
-
-May 26, 2019 - Dorisiya Yosifova's Violin Studio Recital, Brookline, MA 
-
-May 4, 2019 - Klassical Kidz Studio Recital, Arlington, MA 
-
-May 3, 2019 - Jesus Saenz's Violin Masters Recital, Boston Conservatory at Berklee
-
-April 3, 2019 - Christy Turnbow Vocal Studio Recital, Boston Conservatory at Berklee ~ www.bostonconservatory.berklee.edu/directory/christy-turnbow
-
-March 20, 2019 - Maria D'Ambrosio's French Horn Masters Recital, Boston Conservatory at Berklee
-
-Oct. 27, 2018 - Brookline Symphony Orchestra, Brookline, MA ~ https://www.brooklinesymphony.org/
-
-Sept. 13, 2018 - Gilbert & Sullivan's Iolanthe, The Sudbury Savoyards, Shrewbury, MA ~ http://www.sudburysavoyards.org/index.html
-
-July 19, 2018 - WQXR Young Artists Concert, Brevard, NC
-
-June 22-Aug. 4, 2018 - Six performances with Brevard Music Institute Orchestra, Brevard, NC ~ https://www.brevardmusic.org/
-
-March 22-25, 2018 - Debut of Vanity Lane Ballet by Jackson, Hettrick, and Williams; Farkas Hall, Harvard University, Cambridge, MA
-
-April 30, 2017 - Debuted an operetta by Daniel Choi, Boston Conservatory at Berklee
-
-March 11, 2017 - Debuted a commission by Manuel Garcia Albornoz, Boston Conservatory at Berklee ~ http://www.mgarciamusic.com/welcome
-
-
-<!--
-performance | coaching | accompaniment | ensembles
-
-
-### JOIN ME AT THESE UPCOMING EVENTS
-
-two columns
-
-date
-thing
-
-date
-thing
-
--->
+{% include events.html items=page.past_events %}
