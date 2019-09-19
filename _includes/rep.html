@@ -4,7 +4,7 @@
     {{ include.title }}
   </a>
 </h3>
-<div class="collapse" id="{{ include.card_id }}">
+<div class="collapse d-print-block" id="{{ include.card_id }}">
   {% for item in include.items %}
   {% if item[0] != "none" %}
   <h3>{{ item[0] }}</h3>
