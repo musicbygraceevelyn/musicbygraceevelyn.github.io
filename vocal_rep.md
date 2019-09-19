@@ -49,20 +49,25 @@ art_songs:
       - Frustration
     - songs:
       - Message
+    Cipullo:
+    - songs:
+      - complete
+      collection: Late Summer
+      opus: Nos. 1-3
     Copland:
     - songs:
       - "The Boatmen’s Dance (Minstrel song from 1843)"
       collection: Old American Songs
       opus: No. 1 
-    "Duke":
+    Duke:
     - songs:
       - Aubade
-    "Heggie":
+    Heggie:
     - songs:
       - complete
       collection: Four Songs and Sonnets to Ophelia
       opus: "Nos. 1-4"
-    "Ives":
+    Ives:
     - songs:
       - Afterglow (1919)
     - songs:
@@ -75,12 +80,12 @@ art_songs:
       - A Working Woman
       - All I Have
       collection: Songs from Letters, Calamity Jane to her daughter Janey 1880-1902
-    "Quilter":
+    Quilter:
     - songs:
       - "Love's Philosophy"
       - "Blow, blow, thou Winter Wind"
-      opus: Op. 6, Nos. 1 and 3
-    "Rorem":
+      opus: Op. 6, Nos. 1, 3
+    Rorem:
     - songs: 
       - Stopping by Woods on a Snowy Evening
     "Vaughn Williams":
@@ -91,23 +96,24 @@ art_songs:
     - songs:
       - The Vagabond
   French:
-    "Berlioz":
+    Berlioz:
     - songs: 
       - "La mort d’Ophélie"
       opus: Op. 18, No. 11
     - songs:
       - Villanelle
       - Le Spectre de la Rose
+      - L'ile Inconnue
       collection: "Les Nuits D'Eté" 
-      opus: Nos. 1-2
-    "Chabrier":
+      opus: Op. 7, Nos. 1-2, 6
+    Chabrier:
     - songs:
       - "L’invitation au voyage (voice & bassoon) (1870)"
-    "Chaminade":
+    Chaminade:
     - songs:
       - "L’anneau d’argent"
       - "Si J’étais jardinier"
-    "Debussy":
+    Debussy:
     - songs:
       - "C’est l’extase langoureuse"
       - Il pleure dans mon coeur
@@ -165,10 +171,9 @@ art_songs:
       - Chanson Médiévale (1906)
     - songs:
       - La Statue de Bronze
-    - songs:
       - Daphénéo
-    - songs:
-      - La Chapelier
+      - Le Chapelier
+      collection: Trois Mélodie
     - songs:
       - La Diva de L’Empire (1904)
     - songs:
@@ -669,7 +674,11 @@ arias:
     - songs:
       - "Ach, wir armen Leute"
       collection: "Hänsel und Gretel"
-    "Lehár":
+    Korngold:
+    - songs:
+      - Mein Sehnen, mein Wähnen
+      collection: Die tote Stadt
+    Lehár:
     - songs:
       - Dein ist mein ganzes Herz
       collection: Das Land des Lächelns
@@ -698,8 +707,10 @@ arias:
       collection: Die Fledermaus
     "R. Strauss":
     - songs:
+      - Hab mir's gelobt (trio)
       - Wie Du warst! Wie Du bist!
       collection: Der Rosenkavalier
+      opus: Op. 59 
     Wagner:
     - songs:
       - O! Du mein holder Abendstern
@@ -708,10 +719,10 @@ arias:
     - songs:
       - Einst träumte
       - Kommt ein schlanker Bursch gegangen
-      - "Wie nahte mir... Leise, leise"
       - "Schelm, halt' fest! duet"
       - "Schweig’! Schweig’! damit dich niemand warnt"
       - Und ob die Wolke
+      - "Wie nahte mir... Leise, leise"
       collection: Der Freischütz
   Italian:
     Bellini:
@@ -762,11 +773,11 @@ arias:
       collection: Tolomeo
     Mozart:
     - songs:
+      - Donne mie la fate a tanti
       - In uomini, in soldati
-      - Una donna a quindici anni
       - Smanie implacabili
       - Temerari... Come scoglio
-      - Donne mie la fate a tanti
+      - Una donna a quindici anni
       collection: Così fan tutte
     - songs:
       - Madamina! Il catalogo
@@ -799,11 +810,11 @@ arias:
       - Donde lieta
       collection: "La Bohème"
     - songs:
-      - Chi il bel sogno di Doretta
-      collection: Rondine 
-    - songs:
       - complete
       collection: Gianni Schicchi
+    - songs:
+      - Chi il bel sogno di Doretta
+      collection: Rondine 
     - songs:
       - complete
       collection: Suor Angelica
@@ -828,15 +839,16 @@ arias:
       collection: Pirro e Demetrio
     Verdi:
     - songs:
-      - "Io l'ho perduta!"
-      collection: Don Carlo
-    - songs:
-      - Surta è la notte... Ernani, involami
-      collection: Ernani
-    - songs:
       - Saper vorreste
       - Volta la terrea fronte alle stelle
       collection: Un Ballo in Maschera
+    - songs:
+      - "Io l'ho perduta!"
+      collection: Don Carlo
+    - songs:
+      - Che mai vegg’io! (Finale Primo)
+      - Surta è la notte... Ernani, involami
+      collection: Ernani
     - songs:
       - Sul fil d'un soffio estesio
       collection: Falstaff
@@ -851,9 +863,6 @@ arias:
       - Ah, forse lui che l’anima
       - Pura siccome un angelo, duet
       collection: La Traviata
-    - songs:
-      - Che mai vegg’io! (Finale Primo)
-      collection: Ernani
     Vivaldi:
     - songs:
       - Io son quel gelsomino
@@ -953,13 +962,13 @@ mt:
       - Joey is a Punk Rocker
       collection: The Black Suits
     Kander & Ebb:
+    - songs: 
+      - Sing Happy
+      collection: Flora the Red Menace
     - songs:
       - Dressing Them Up
       - "She’s a Woman" 
       collection: Kiss of the Spider Woman
-    - songs: 
-      - Sing Happy
-      collection: Flora the Red Menace
     Kitt & Yorkey:
     - songs:
       - Super Boy & the Invisible Girl
@@ -1025,15 +1034,19 @@ mt:
       - Ten Minutes Ago
       collection: Cinderella
     - songs:
+      - Lonely Room 
+      collection: Oklahoma!
+    - songs:
+      - Do Re Mi
+      - My Favorite Things
+      collection: Sound of Music
+    - songs:
       - Dites-moi
       - Some Enchanted Evening 
       collection: South Pacific
     - songs:
       - Something Wonderful 
       collection: The King and I
-    - songs:
-      - Lonely Room 
-      collection: Oklahoma!
     Salzman & Cunningham:
     - songs:
       - Even Though
