@@ -1,5 +1,5 @@
 ---
-title: Classical Vocal Collaborative Repertoire
+title: Vocal Collaborative Repertoire
 layout: default
 
 art_songs:
@@ -1249,7 +1249,7 @@ jazz:
 
 ---
 
-### Classical Vocal Collaborative Repertoire
+### Vocal Collaborative Repertoire
 
 {% include titleborder %}
 
