@@ -164,6 +164,10 @@ art_songs:
       - complete
       collection: "Tel Jour, Telle Nuit (1937)"
       opus: "Nos. 1-9"
+    - songs:
+      - La Carpe
+      collection: Le Bestiaire
+      opus: No. 6
     Satie:
     - songs:
       - Chanson (Bien courte, hélas! est l’espérance) (1887)

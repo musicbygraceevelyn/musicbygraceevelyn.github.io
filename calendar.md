@@ -5,16 +5,16 @@ layout: single
 current_events:
 - date: Saturday, Sept. 28, 2019
   time: 2:00pm
-  title: Song Recital
-  subtitle: Works by Berlioz, Rossini, Shostikovich, and others.
-  singer: Elizabeth Kinder & Brynne Pulver
+  title: Seasons of Change Recital
+  subtitle: Works by Berlioz, Rossini, Shostikovich, and others. Homemade, autumnal refreshments to follow.
+  singer: Elizabeth Kinder and Brynne Pulver, and special guests Shannon Grace and David Dziardziel
   website: https://www.elizabethkindermezzo.com/
   location: Hunneman Hall, Brooline Public Library, 361 Washington Street, Brookline, MA 02445
   cost: Free
 
 - date: Sunday, Sept. 29, 2019
   time: 2:00pm
-  title: Song Recital
+  title: Musical Theater Song Recital
   subtitle: Songs from Into the Woods, Light in the Piazza, Secret Garden, Show Boat and more.
   singer: Stephanie Hollenberg
   website: https://www.stephaniehollenberg.com/
