@@ -18,7 +18,7 @@ I love helping every musician I work with improve their sound and feel more conf
 
 I love languages and I love helping my singers nail the pronunciation of the text when they're singing. I have studied English, French, German, Spanish and Italian and took a quick crash course in Czech. I have had the pleasure of visiting countries where these languages are spoken and been able to listen to native speakers. I would love to work with you to pass on what I have learned! In addition to pronunciation, we'll talk about the story behind the piece, find the story you want to share when you're performing, and work so you can sound your absolute best.
 
-See my [vocal repertoire resume](vocal_rep) for a complete listing of works performed.
+See my [vocal repertoire resumé](vocal_rep) for a complete listing of works performed.
 
 {% endcapture %}
 
@@ -31,6 +31,8 @@ See my [vocal repertoire resume](vocal_rep) for a complete listing of works perf
 {% capture instrumental_col1 %}
 
 I love the rehearsal process and enjoy discovering the music with my collaborators! My main focus is ensuring our overall sound is unified, balanced, and true to the composer's markings in the score. I have experience working with piano trios, quintets, and the following instruments one-on-one: Bassoon, Cello, Flute, French Horn, Harp, Marimba, Oboe, Saxophone, Viola, and Violin. 
+
+See my [instrumental repertoire resumé](instr_rep) for a complete listing of works performed.
 
 {% endcapture %}
 
