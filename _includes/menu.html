@@ -11,8 +11,14 @@
       <li class="nav-item">
         <a class="nav-link" href="{{ "/about" | relative_url }}">About</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="{{ "/vocal_rep" | relative_url }}">Vocal Repertoire</a>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Repertoire
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="{{ "/instrumental_rep" | relative_url }}">Instrumental</a>
+          <a class="dropdown-item" href="{{ "/vocal_rep" | relative_url }}">Vocal</a>
+        </div>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="{{ "/calendar" | relative_url }}">Calendar</a>
