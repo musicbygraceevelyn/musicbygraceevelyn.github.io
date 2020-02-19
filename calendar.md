@@ -3,25 +3,41 @@ title: Calendar
 layout: single
 
 current_events:
-- date: Saturday, Sept. 28, 2019
-  time: 2:00pm
+- date: March 7, 2020
+  title: Kat Lawrence's Musical Theater Recital
+  location: Slosberg Music Center, Brandeis University, 415 South St. Waltham, MA 02453
+
+past_events:
+- date: Jan. 25, 2020
+  title: Klassical Kidz Little Players' Recital
+  location: 19 Academy St. Arlington, MA
+
+- date: Nov. 17, 2019
+  title: Brandeis Choral ensembles directed by Robert Duff
+  location: Slosburg Music Hall, Brandeis University, Waltham, MA
+
+- date: Nov. 23, 2019
+  title: Katherine Fuller's Studio Recital
+  location: Seully Hall, Boston Conservatory, Boston, MA
+
+- date: Dec. 5-7, 2019
+  title: Christmas Broadway Review
+  subtitle: South Shore Theater Works directed by Richard Bento
+
+- date: Sept. 28, 2019
   title: Seasons of Change Recital
   subtitle: Works by Berlioz, Rossini, Shostikovich, and others. Homemade, autumnal refreshments to follow.
   singer: Elizabeth Kinder and Brynne Pulver, and special guests Shannon Grace and David Dziardziel
   website: https://www.elizabethkindermezzo.com/
-  location: Hunneman Hall, Brooline Public Library, 361 Washington Street, Brookline, MA 02445
-  cost: Free
+  location: Hunneman Hall, Brooline Public Library, 361 Washington Street, Brookline, MA
 
-- date: Sunday, Sept. 29, 2019
-  time: 2:00pm
+- date: Sept. 29, 2019
   title: Musical Theater Song Recital
   subtitle: Songs from Into the Woods, Light in the Piazza, Secret Garden, Show Boat and more.
   singer: Stephanie Hollenberg
   website: https://www.stephaniehollenberg.com/
-  location: Waterstone at the Circle, 385 Chestnut Hill Avenue, Boston, MA 02135
-  cost: Free
+  location: Waterstone at the Circle, 385 Chestnut Hill Avenue, Boston, MA
 
-past_events:
 - date: Aug. 9-10, 2019
   title: Suor Angelica and Gianni Schicchi
   subtitle: Two of Puccini's most contrasting operas. One will break your heart and the other will make you laugh until your sides hurt. Each 50 minutes long, with a 15 minute intermission between. Refreshments available for purchase.

@@ -326,6 +326,9 @@ art_songs:
       - "Der Doppelgänger"
       collection: Schwanengesang
       opus: D. 957, Nos. 10 and 13
+    - songs:
+      - Der Hirt auf dem Felsen
+      opus: D. 965
     
     "C. Schumann":
     - songs:
@@ -479,6 +482,12 @@ art_songs:
       - Di due rai languire
       collection: Four Arias
       opus: "No. 1"
+
+  Russian:
+    Shostakovich:
+    - songs:
+      - Satires
+      opus: Nos. 1, 2, 5
 
   Spanish:
     Granados:
@@ -659,7 +668,7 @@ arias:
       collection: Coffee Cantata
       opus: BWV 211 
     - songs:
-      - Mache dich, mein Herze, rein
+      - Mache dich, mein Herze, rein (bass)
       collection: St. Matthew Passion
       opus: BWV 244
     - songs:
@@ -881,6 +890,7 @@ arias:
     - songs:
       - Laudate Dominum
       collection: Vesperae solennes de Confessore
+
 mt:
   none:
     Ahrens & Flaherty:
@@ -908,6 +918,7 @@ mt:
     Bowen:
     - songs:
       - A Way Back to Then
+      - I Am Playing Me
       - Secondary Characters
       collection: "[title of show]"
     J.R. Brown:
@@ -921,6 +932,8 @@ mt:
       - Still Hurting
       collection: The Last Five Years
     - songs:
+      - Christmas Lullaby
+      - I'm Not Afraid of Anything
       - Stars and the Moon
       collection: Songs for a New World
     Bryan & DiPietro:
@@ -937,6 +950,10 @@ mt:
       - Funny
       - "What You Don’t Know About Women"
       collection: City of Angels
+    Finn:
+    - songs:
+      - Change
+      collection: Make a Song
     Gilbert & Sullivan:
     - songs:
       - complete
@@ -1001,6 +1018,10 @@ mt:
     - songs:
       - No One Else
       collection: The Great Comet of 1812
+    Martin & Brickell:
+    - songs:
+      - Asheville
+      collection: Bright Star
     Menken & Ashman:
     - songs:
       - Somewhere That’s Green
@@ -1010,8 +1031,13 @@ mt:
       - Her Voice 
       collection: The Little Mermaid
     - songs:
+      - Joyful, Joyful
       - The Life I Never Led 
       collection: Sister Act
+    Mills:
+    - songs:
+      - Patience
+      collection: Illyria
     Miranda:
     - songs:
       - Burn
@@ -1023,6 +1049,15 @@ mt:
     - songs:
       - How Could I Ever Know?
       collection: The Secret Garden
+    Paul:
+    - songs:
+      - I Stole a Bus
+      collection: Bubble Boy
+    Richmond & Benjamin:
+    - songs:
+      - Sexy
+      - What's Wrong with Me
+      collection: Mean Girls
     Rocicki:
     - songs:
       - My Grand Plan
@@ -1039,6 +1074,7 @@ mt:
       collection: Cinderella
     - songs:
       - Lonely Room 
+      - Many a New Day
       collection: Oklahoma!
     - songs:
       - Do Re Mi
@@ -1084,10 +1120,14 @@ mt:
     - songs:
       - Children Will Listen
       - I Know Things Now 
+      - Moments in the Woods
       collection: Into the Woods
     - songs:
       - Not A Day Goes By 
       collection: Merrily We Roll Along
+    - songs:
+      - So Many People
+      collection: Saturday Night
     - songs:
       - Green Finch & Linnet Bird 
       - My Friends
@@ -1099,6 +1139,10 @@ mt:
     - songs:
       - Just in Time
       collection: Bells are Ringing
+    Tesori:
+    - songs:
+      - Days and Days
+      collection: Fun Home
     Tesori & Kushner:
     - songs:
       - I Hate the Bus
@@ -1140,6 +1184,9 @@ jazz:
     - songs:
       - Bella Notte
       collection: Lady & The Tramp
+    Carmichael:
+    - songs:
+      - I get along without you very well
     Ellington, James, Hodges, George:
     - songs:
       - I'm Beginning to See the Light
