@@ -152,7 +152,7 @@ past_events:
 ## Calendar
 
 <!--
-    nobody can see this
+    nobody can see this 
 -->
 
 {% include titleborder %}
