@@ -3,9 +3,37 @@ title: Calendar
 layout: single
 
 current_events:
-- date: March 7, 2020
+- date: Friday, March 20, 2020
+  time: 7:00pm
+  title: Brandeis Chamber Singers' Concert
+  location: Saint Cecilia Church, Boston, MA
+
+- date: Friday, March 27, 2020
   title: Kat Lawrence's Musical Theater Recital
+  time: 8:00pm
   location: Slosberg Music Center, Brandeis University, 415 South St. Waltham, MA 02453
+
+- date: Sunday, March 29, 2020
+  time: 5:00pm
+  title: Concert of Irving Fine works
+  location: Slosberg Music Center, Brandeis University, 415 South St. Waltham, MA 02453
+
+- date: Sunday, April 19, 2020
+  time: 7:00pm
+  title: Brandeis Choral Concert
+  location: Slosberg Music Center, Brandeis University, 415 South St. Waltham, MA 02453
+
+- date: Sunday, April 26, 2020
+  time: 5:00pm
+  title: Taylor Stilson's Voice Studio Recital
+  location: Seully Hall, Boston Conservatory at Berklee, 8 Fenway, Boston, MA
+
+- date: May or June 2020 (details to come)
+  title: Katherine Fuller & Grace Spicuzza perform songs by Poulenc, Weil and more
+
+- date: Autumn 2020 (details to come)
+  title: Historical concert with Cathleen McGowan commemorating the 400th anniversary of the Mayflower's landing in Plymouth
+  location: Park Street Church, 1 Park Street, Boston, MA
 
 past_events:
 - date: Jan. 25, 2020

@@ -115,25 +115,28 @@ art_songs:
       - "Si J’étais jardinier"
     Debussy:
     - songs:
+      - Beau Soir
+    - songs:
       - "C’est l’extase langoureuse"
       - Il pleure dans mon coeur
       - Green
       collection: "Ariettes Oubliées"
     - songs:
-      - Les cloches
-      collection: Deux Romances
-    - songs:
       - "Clair du lune (1882)"
     - songs:
       - "Fleur des blés (1880)"
     - songs:
-      - "Nuit d’Etoiles"
-    - songs:
       - "La Belle au Bois dormant"
     - songs:
-      - "Voici que le Printemps"
+      - Les cloches
+      collection: Deux Romances
+    - songs:
+      - "Nuit d’Etoiles"
     - songs:
       - Romance 
+    - songs:
+      - "Voici que le Printemps"
+  
     "Fauré":
     - songs:
       - "Après un Rȇve"
@@ -142,7 +145,7 @@ art_songs:
     - songs:
       - "Ici-bas!"
     - songs:
-      - Les Secret
+      - Le Secret
       opus: "Op. 23, No. 3"
     - songs:
       - La lune blanche luit dans les bois
@@ -168,6 +171,10 @@ art_songs:
       - La Carpe
       collection: Le Bestiaire
       opus: No. 6
+    Ravel:
+    - songs:
+      - Là-bas, vers l'église
+      collection: 5 Mélodies populaires grecques
     Satie:
     - songs:
       - Chanson (Bien courte, hélas! est l’espérance) (1887)
@@ -893,7 +900,7 @@ arias:
 
 mt:
   none:
-    Ahrens & Flaherty:
+    "Ahrens & Flaherty":
     - songs:
       - Raining
       collection: Rocky The Musical
@@ -1109,7 +1116,7 @@ mt:
       collection: Smash
     Sondheim:
     - songs:
-      - Send In the Clowns
+      - complete
       collection: A Little Night Music
     - songs:
       - Another Hundred People 
@@ -1179,6 +1186,7 @@ jazz:
     Berlin:
     - songs:
       - Cheek to Cheek
+    - songs:
       - Love You Didn't Do Right By Me
     Burke & Lee:
     - songs:
@@ -1196,9 +1204,13 @@ jazz:
     G. & I. Gershwin:
     - songs: 
       - Embraceable You
+    - songs:
       - Love Is Here to Stay
+    - songs:
       - Love Walked In
+    - songs:
       - The Man I Love
+    - songs:
       - They Can't Take That Away from Me
       # - Soon
       # - I Only Have Eyes for You
@@ -1221,6 +1233,7 @@ jazz:
     Porter:
     - songs:
       - You'd Be So Nice to Come Home to
+    - songs:
       - So In Love
     Scott:
     - songs:
@@ -1228,11 +1241,15 @@ jazz:
     Shearing:
     - songs:
       - How About You?
+    - songs:
       - Moonlight Serenade
       # - Everything I Have is Yours 
     Waller:
     - songs:
+      - Ain't Misbehavin'
+    - songs:
       - I'm Sittin On Top of the World
+    - songs:
       - Two Sleepy People
     Whiting & Mercer:
     - songs:
