@@ -6,7 +6,7 @@ title: About
 
 {% include titleborder %}
 
-I love helping every musician I work with improve their sound and feel more confident in the music they are delivering! I love details but I will keep rehearsals productive and upbeat. I hold a Masters of Music in Collaborative Piano from the Boston Conservatory at Berklee and live in the greater Boston area with my husband and our grand piano. Hope to meet you soon!
+I love helping every musician I work with improve their sound and feel more confident in the music they are delivering! I love details but I will keep rehearsals productive and upbeat. I hold a Masters of Music in Collaborative Piano from the Boston Conservatory at Berklee and live in the greater Boston area with my husband, our grand piano, and our rabbit named Curious George. Hope to meet you soon!
 
 {% capture vocal_col1 %}
 
