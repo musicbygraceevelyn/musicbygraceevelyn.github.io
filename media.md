@@ -8,6 +8,10 @@ title: Media
 
 {% include titleborder %}
 
+#### Find me on Instagram [@musicbygraceevelyn](https://www.instagram.com/musicbygraceevelyn/)
+
+<p>&nbsp;</p>
+
 ### PHOTOS AND VIDEOS
 
 {% endcapture %}
