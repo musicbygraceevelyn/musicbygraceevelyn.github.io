@@ -4,15 +4,15 @@ layout: single
 
 current_events:
 
-- date: May 4, 2021
-  title: Brandeis Voice Students' Recital
-  location: Slosberg Music Center, Brandeis University, 415 South St. Waltham, MA 02453
-
 - date: Autumn 2021 (details to come)
   title: Historical concert with Cathleen McGowan commemorating the 401st anniversary of the Mayflower's landing in Plymouth
   location: Park Street Church, 1 Park Street, Boston, MA
 
 past_events:
+
+- date: May 4, 2021
+  title: Brandeis MT Voice Students' Recital
+  location: Saint Cecilia Church, Boston, MA
 
 - date: June 12, 2020
   title: Kat Lawrence's Musical Theater Recital

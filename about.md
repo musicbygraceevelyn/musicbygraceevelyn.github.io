@@ -57,7 +57,7 @@ See my [instrumental repertoire resumé](instr_rep) for a complete listing of wo
 
 {% capture large_ensem_col2 %}
 
-I have two decades of experience accompanying adult and children's choirs in various genres of music. Within the last four years, I have performed eleven times with the following orchestras: Brookline Symphony, Boston Conservatory Sinfonietta, Brevard Music Institute Orchestra, Vanity Lane Ballet pit orchestra, and Opera Susquehanna pit orchestra. I have had the pleasure to perform under conductors Andrew Altenbach, JoAnn Falletta, Ken Lam, and Keith Lockhart.
+I have two decades of experience accompanying adult and children's choirs in various genres of music. Within the last four years, I have performed eleven times with the following orchestras: Brookline Symphony, Boston Conservatory Sinfonietta, Brevard Music Institute Orchestra, Vanity Lane Ballet pit orchestra, and Opera Susquehanna pit orchestra. I have had the pleasure to perform under acclaimed conductors Andrew Altenbach, JoAnn Falletta, Ken Lam, and Keith Lockhart.
 
 {% endcapture %}
 
