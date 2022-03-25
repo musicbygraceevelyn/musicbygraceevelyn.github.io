@@ -4,9 +4,54 @@ layout: single
 
 current_events:
 
-- date: Autumn 2021 (details to come)
-  title: Historical concert with Cathleen McGowan commemorating the 401st anniversary of the Mayflower's landing in Plymouth
-  location: Park Street Church, 1 Park Street, Boston, MA
+- date: 5:00-5:50pm, Saturday, March 26, 2022
+  title: Liana's Junior Classical Voice Recital
+  location: Slosberg Hall, Brandeis University, 415 South Street, Waltham, MA 02453. Free & open to the public.
+
+- date: 8:00-9:20pm, Wednesday, March 30, 2022
+  title: Jiayi's Harp Recital
+  location: Boston Conservatory, 8 Fenway, Boston, MA 02215. Free & open to the public.
+
+- date: 7:30-9:00pm, Friday, April 1, 2022
+  title: Emily Siar's Musical Theater Voice Studio Recital
+  location: Boston Conseravtory Theater room 401, 31 Hemenway Street, Boston, MA 02115. Free & open to the public. 
+  website: https://bostonconservatory.berklee.edu/faculty/emily-siar
+
+- date: 12:00-12:50, Sunday, April 3, 2022
+  title: Rosie's Musical Theater Senior Recital
+  location: Slosberg Hall, Brandeis University, 415 South Street, Waltham, MA 02453. Free & open to the public.
+
+- date: 8:000-9:30, Sunday, April 3, 2022
+  title: Dan Callaway's Musical Theater Voice Studio Recital
+  location: Boston Conservatory, 8 Fenway, Boston, MA 02215. Free & open to the public.
+  website: http://dancallaway.com/about/
+
+- date: 2:00-3:15, Saturday, April 9, 2022
+  title: Lauren's Graduate Voice Recital
+  location: Boston Conservatory, 8 Fenway, Boston, MA 02215. Free & open to the public.
+  website: https://www.laurenacooksoprano.com/teaching
+
+- date: 8:00-9:30, Thursday, April 14, 2022
+  title: Christy Turnbow's Musical Theater Voice Studio Recital
+  location: Boston Conservatory, 8 Fenway, Boston, MA 02215. Free & open to the public.
+  website: https://bostonconservatory.berklee.edu/directory/christy-turnbow
+
+- date: 2:00-3:30, Saturday, April 16, 2022
+  title: Craig Juricka's Musical Theater Voice Studio Recital
+  location: Seully Hall, 4th floor of 8 Fenway, Boston Conservatory, Boston, MA 02115. Free & open to the public.
+  website: https://www.craigjuricka.com/
+
+- date: 8:00-9:00, Friday, April 22, 2022
+  title: Jacob's Senior Bass Recital
+  location: Boston Conservatory, 8 Fenway, Boston, MA 02215. Free & open to the public.
+
+- date: 7:30-8:45, Friday, April 29, 2022
+  title: Alex's Senior Musical Theater Recital
+  location: Slosberg Hall, Brandeis University, 415 South Street, Waltham, MA 02453. Free & open to the public.
+
+- date: Wednesday, May 4, 2022
+  title: Kat's Senior Musical Theater Recital
+  location: Slosberg Hall, Brandeis University, 415 South Street, Waltham, MA 02453. Free & open to the public.
 
 past_events:
 
@@ -15,7 +60,7 @@ past_events:
   location: Saint Cecilia Church, Boston, MA
 
 - date: June 12, 2020
-  title: Kat Lawrence's Musical Theater Recital
+  title: Kat's Musical Theater Recital
   location: Saint Cecilia Church, Boston, MA
 
 - date: Jan. 25, 2020
@@ -127,6 +172,12 @@ past_events:
   subtitle: A piece for violin & piano I commissioned by Manuel Garcia Albornoz.
   location: Boston Conservatory at Berklee
   website: http://www.mgarciamusic.com/welcome
+
+
+
+# - date: Autumn 2021 (details to come)
+#  title: Historical concert with Cathleen McGowan commemorating the 401st anniversary of the Mayflower's landing in Plymouth
+#  location: Park Street Church, 1 Park Street, Boston, MA
 
 
 
