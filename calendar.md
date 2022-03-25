@@ -59,25 +59,23 @@ past_events:
   title: Brandeis MT Voice Students' Recital
   location: Saint Cecilia Church, Boston, MA
 
-- date: June 12, 2020
-  title: Kat's Musical Theater Recital
-  location: Saint Cecilia Church, Boston, MA
-
 - date: Jan. 25, 2020
-  title: Klassical Kidz Little Players' Recital
-  location: 19 Academy St. Arlington, MA
+  title: Klassical Kidz Little Players' Strings Recital
+  location: Arlington, MA
+  website: https://www.klassical-kidz-music-studio.com/
 
 - date: Nov. 17, 2019
   title: Brandeis Choral ensembles directed by Robert Duff
-  location: Slosburg Music Hall, Brandeis University, Waltham, MA
+  location: Brandeis University, Waltham, MA
 
 - date: Nov. 23, 2019
   title: Katherine Fuller's Studio Recital
-  location: Seully Hall, Boston Conservatory, Boston, MA
+  location: Boston Conservatory at Berklee, Boston, MA
 
 - date: Dec. 5-7, 2019
   title: Christmas Broadway Review
   subtitle: South Shore Theater Works directed by Richard Bento
+  location: Attleboro, MA
 
 - date: Sept. 28, 2019
   title: Seasons of Change Recital
@@ -117,23 +115,22 @@ past_events:
   organization: Klassical Kidz
   subtitle: Spring recital for the violin, viola and piano students of Lydia and Adrienne Bassett, owners of Klassical Kidz Music Studio.
   website: https://www.klassical-kidz-music-studio.com/
-  location: Town Hall, Massachusetts Ave, Arlington, MA
+  location: Arlington, MA
 
 - date: May 3, 2019
   title: Masters Violin Recital
   organization: Jesus Saenz
-  location: Ipswich Street, room 102, Boston Conservatory at Berklee, Boston, MA
+  location: Boston Conservatory at Berklee, Boston, MA
 
 - date: April 3, 2019
   title: Voice Studio Recital
   organization: Christy Turnbow
-  location: Hemenway Street, room 401, Boston Conservatory at Berklee, Boston, MA
-  website: 
+  location: Boston Conservatory at Berklee, Boston, MA
 
 - date: March 20, 2019
   title: Masters French Horn Recital
   organization: Maria D'Ambrosio
-  location: Seully Hall, 8 Fenway, Boston Conservatory at Berklee, Boston, MA 
+  location: Boston Conservatory at Berklee, Boston, MA 
 
 - date: Oct. 27, 2018
   title: Season Opener
