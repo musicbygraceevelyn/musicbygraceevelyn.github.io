@@ -4,21 +4,20 @@ layout: single
 
 current_events:
 
-- date: 5:00-5:50pm, Saturday, March 26, 2022
-  title: Liana's Junior Classical Voice Recital
-  location: Slosberg Hall, Brandeis University, 415 South Street, Waltham, MA 02453. Free & open to the public.
-
 - date: 8:00-9:20pm, Wednesday, March 30, 2022
-  title: Jiayi's Harp Recital
-  location: Boston Conservatory, 8 Fenway, Boston, MA 02215. Free & open to the public.
+  title: Jiayi's Senior Harp Recital
+  subtitle: Solo & chamber music
+  location: Boston Conservatory, 132 Ipswich Street, performance hall 106, Boston, MA 02215. Free & open to the public. Program includes both solo harp & chamber music.
 
 - date: 7:30-9:00pm, Friday, April 1, 2022
   title: Emily Siar's Musical Theater Voice Studio Recital
+  subtitle: Each student will sing 2 songs or duets.
   location: Boston Conseravtory Theater room 401, 31 Hemenway Street, Boston, MA 02115. Free & open to the public. 
   website: https://bostonconservatory.berklee.edu/faculty/emily-siar
 
 - date: 12:00-12:50, Sunday, April 3, 2022
   title: Rosie's Musical Theater Senior Recital
+  subtitle: Songs from "Into the Woods," "The Bridges of Madison County," "My Fair Lady," "Mean Girls" and more.
   location: Slosberg Hall, Brandeis University, 415 South Street, Waltham, MA 02453. Free & open to the public.
 
 - date: 8:000-9:30, Sunday, April 3, 2022
@@ -28,7 +27,8 @@ current_events:
 
 - date: 2:00-3:15, Saturday, April 9, 2022
   title: Lauren's Graduate Voice Recital
-  location: Boston Conservatory, 8 Fenway, Boston, MA 02215. Free & open to the public.
+  subtitle: Songs in Yiddish, French and English!
+  location: Houston Hall, Boston Conservatory, 8 Fenway, 1st floor, Boston, MA 02215. Free & open to the public.
   website: https://www.laurenacooksoprano.com/teaching
 
 - date: 8:00-9:30, Thursday, April 14, 2022
@@ -43,6 +43,7 @@ current_events:
 
 - date: 8:00-9:00, Friday, April 22, 2022
   title: Jacob's Senior Bass Recital
+  subtitle: Solo & chamber music
   location: Boston Conservatory, 8 Fenway, Boston, MA 02215. Free & open to the public.
 
 - date: 7:30-8:45, Friday, April 29, 2022
@@ -55,8 +56,12 @@ current_events:
 
 past_events:
 
+- date: March 26, 2022
+  title: Liana's Junior Classical Voice Recital
+  location: Brandeis University, Waltham, MA
+
 - date: May 4, 2021
-  title: Brandeis MT Voice Students' Recital
+  title: Brandeis Musical Theater Voice Students' Recital
   location: Saint Cecilia Church, Boston, MA
 
 - date: Jan. 25, 2020
@@ -65,15 +70,15 @@ past_events:
   website: https://www.klassical-kidz-music-studio.com/
 
 - date: Nov. 17, 2019
-  title: Brandeis Choral ensembles directed by Robert Duff
+  title: Brandeis Choral ensembles concert directed by Robert Duff
   location: Brandeis University, Waltham, MA
 
 - date: Nov. 23, 2019
-  title: Katherine Fuller's Studio Recital
+  title: Katherine Fuller's Voice Studio Recital
   location: Boston Conservatory at Berklee, Boston, MA
 
 - date: Dec. 5-7, 2019
-  title: Christmas Broadway Review
+  title: Christmas Broadway Review Show
   subtitle: South Shore Theater Works directed by Richard Bento
   location: Attleboro, MA
 
@@ -93,7 +98,7 @@ past_events:
 
 - date: Aug. 9-10, 2019
   title: Suor Angelica and Gianni Schicchi
-  subtitle: Two of Puccini's most contrasting operas. One will break your heart and the other will make you laugh until your sides hurt. Each 50 minutes long, with a 15 minute intermission between. Refreshments available for purchase.
+  subtitle: Two of Puccini's most contrasting operas. One will break your heart and the other will make you laugh until your sides hurt. Each 50 minutes long, with a 15 minute intermission between.
   organization: Opera Susquehanna
   website: https://www.operasusquehanna.org/
   location: York Regional Technical School, York, PA
@@ -123,7 +128,7 @@ past_events:
   location: Boston Conservatory at Berklee, Boston, MA
 
 - date: April 3, 2019
-  title: Voice Studio Recital
+  title: Musical Theater Studio Recital
   organization: Christy Turnbow
   location: Boston Conservatory at Berklee, Boston, MA
 
@@ -133,7 +138,7 @@ past_events:
   location: Boston Conservatory at Berklee, Boston, MA 
 
 - date: Oct. 27, 2018
-  title: Season Opener
+  title: Season Opener Concert
   subtitle: Works by Clyne, Brahms, Tomasi
   organization: Brookline Symphony Orchestra
   location: Beacon Street, Brookline, MA
@@ -146,16 +151,16 @@ past_events:
   website: http://www.sudburysavoyards.org/index.html
 
 - date: July 19, 2018
-  title: WQXR Young Artists Concert
+  title: WQXR Station Young Artists Concert
   location: Brevard, NC
 
 - date: June 22 - Aug. 4, 2018
-  title: Six performances with Brevard Music Institute orchestras
+  title: Six performances with the Brevard Music Institute Orchestra
   location: Brevard, NC
   website: https://www.brevardmusic.org/
 
 - date: March 22-25, 2018
-  title: Debut of Vanity Lane Ballet
+  title: World Premier of Vanity Lane Ballet
   subtitle: Music by Jackson, Hettrick, and Williams. Story and choreography by LaToya Princess Jackson.
   location: Farkas Hall, Harvard University, Cambridge, MA
 
@@ -165,7 +170,7 @@ past_events:
   location: Boston Conservatory at Berklee
 
 - date: March 11, 2017
-  title: Debute of Frail Blue
+  title: Debute of "Frail Blue"
   subtitle: A piece for violin & piano I commissioned by Manuel Garcia Albornoz.
   location: Boston Conservatory at Berklee
   website: http://www.mgarciamusic.com/welcome
