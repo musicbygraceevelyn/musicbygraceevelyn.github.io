@@ -70,7 +70,7 @@ I have two decades of experience accompanying adult and children's choirs in var
 
 {% capture piano_col1 %}
 
-I have experience teaching piano students from beginner to advanced-intermediate, from 5 years old to adults. I love working with the talented students at Klassical Kidz Music Studio in Arlington, MA where I am the Advanced Piano Instructor. Learn more at https://www.klassical-kidz-music-studio.com/home
+I have experience teaching piano students from beginner to advanced-intermediate, from 5 years old to adults. I love working with the talented students at Klassical Kidz Music Studio in Arlington, MA where I am the Advanced Piano Instructor. Learn more at [https://www.klassical-kidz-music-studio.com/home](https://www.klassical-kidz-music-studio.com/home)
 
 {% endcapture %}
 

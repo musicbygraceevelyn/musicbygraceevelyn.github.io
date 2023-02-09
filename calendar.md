@@ -6,14 +6,14 @@ current_events:
 
 - date: February 24, 2023
   title: Artistry in Action, Chamber Series by Faculty and Staff of Boston Conservatory at Berklee
-  subtitle: Grace will be performing "Soir Païen" by P. Gaubert with soprano Emily Siar and flutist Linda Toote. This Chamber Series concert will also include Piano Trio in B Major by Johannes Brahms and “Breathe” by Berklee College of Music faculty member Evan Williams, performed by renowned Boston Conservatory at Berklee faculty members Saul Bitran (violin), Joseph Holt (bass), Emily Siar (voice), Philipp Stäudlin (saxophone), Linda Toote (flute), Carlos Vargas (piano), and Owen Young (cello) and graduate students Kyoka Minami and Eric Puente. This event is part of Boston Conservatory at Berklee’s Artistry in Action series.
+  subtitle: Grace will be performing Phillipe Gaubert's "Soir Païen" with faculty members Emily Siar (soprano) and Linda Toote (flutist). This Chamber Series concert will also include Piano Trio in B Major by Johannes Brahms and “Breathe” by Berklee College of Music faculty member Evan Williams, performed by renowned Boston Conservatory at Berklee faculty members Saul Bitran (violin), Joseph Holt (bass), Emily Siar (voice), Philipp Stäudlin (saxophone), Linda Toote (flute), Carlos Vargas (piano), and Owen Young (cello) and graduate students Kyoka Minami and Eric Puente. This event is part of Boston Conservatory at Berklee’s Artistry in Action series.
   time: 8:00pm. Admission is $10-$15.
   location: Seully Hall, Boston Conservatory at Berklee, 8 Fenway, Boston MA 02215. Admission $10-$15. All details can be found at https://bostonconservatory.berklee.edu/events/artistry-in-action-chamber-series-02-24
   website: https://www.emilysiar.com/ and https://bostonconservatory.berklee.edu/directory/linda-toote#:~:text=Linda%20Toote%20joined%20the%20Conservatory,and%20Lake%20George%20Opera%20orchestras.
 
 - date: March 31, 2023
   title: Liana's Senior Classical Voice Recital
-  subtitle:
+  subtitle: Performing works by J.S. Bach, Barber, Handel, and more!
   time: 7:30pm
   location: Slosberg Hall, Brandeis University, 415 South Street, Waltham, MA 02453. Free & open to the public.
 
@@ -32,7 +32,7 @@ current_events:
 
 - date: April 30, 2023
   title: Dan Callaway's Voice Studio Recital
-  subtitle:
+  subtitle: Details to come
   time: 2:00pm
   location: Boston Conservatory at Berklee
   website: https://dancallaway.com/
