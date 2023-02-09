@@ -68,15 +68,33 @@ I have two decades of experience accompanying adult and children's choirs in var
 %}
 
 
+{% capture piano_col1 %}
+
+I have experience teaching piano students from beginner to advanced-intermediate, from 5 years old to adults. I love working with the talented students at Klassical Kidz Music Studio in Arlington, MA where I am the Advanced Piano Instructor. Learn more at https://www.klassical-kidz-music-studio.com/home
+
+{% endcapture %}
+
+{% capture piano_col2 %}
+
+![Piano Instructor](/assets/images/Elouis and me.jpg)
+
+{% endcapture %}
+
+{% include two_columns.html
+   col1=piano_col1
+   col2=piano_col2
+   h="Piano Instructor"
+%}
+
 {% capture solo_col1 %}
 
-Though my piano training was primarily in the classical tradition, I enjoy performing other styles as well, including gospel, musical theater, pop, and rock. Please contact me if you need a pianist for events such as weddings, funerals, fundraising events, and parties.
+![Solo Performer](/assets/images/IMG_0319-393x300.jpg)
 
 {% endcapture %}
 
 {% capture solo_col2 %}
 
-![Solo Performer](/assets/images/IMG_0319-393x300.jpg)
+Though my piano training was primarily in the classical tradition, I enjoy performing other styles as well, including gospel, musical theater, pop, and rock. Contact me if you need a pianist for events such as weddings, funerals, fundraising events, and parties.
 
 {% endcapture %}
 

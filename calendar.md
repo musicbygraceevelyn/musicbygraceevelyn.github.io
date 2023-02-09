@@ -4,57 +4,62 @@ layout: single
 
 current_events:
 
-- date: 8:00-9:20pm, Wednesday, March 30, 2022
-  title: Jiayi's Senior Harp Recital
-  subtitle: Solo & chamber music
-  location: Boston Conservatory, 132 Ipswich Street, performance hall 106, Boston, MA 02215. Free & open to the public. Program includes both solo harp & chamber music.
+- date: February 24, 2023
+  title: Artistry in Action, Chamber Series by Faculty and Staff of Boston Conservatory at Berklee
+  subtitle: Grace will be performing "Soir Païen" by P. Gaubert with soprano Emily Siar and flutist Linda Toote. This Chamber Series concert will also include Piano Trio in B Major by Johannes Brahms and “Breathe” by Berklee College of Music faculty member Evan Williams, performed by renowned Boston Conservatory at Berklee faculty members Saul Bitran (violin), Joseph Holt (bass), Emily Siar (voice), Philipp Stäudlin (saxophone), Linda Toote (flute), Carlos Vargas (piano), and Owen Young (cello) and graduate students Kyoka Minami and Eric Puente. This event is part of Boston Conservatory at Berklee’s Artistry in Action series.
+  time: 8:00pm. Admission is $10-$15.
+  location: Seully Hall, Boston Conservatory at Berklee, 8 Fenway, Boston MA 02215. Admission $10-$15. All details can be found at https://bostonconservatory.berklee.edu/events/artistry-in-action-chamber-series-02-24
+  website: https://www.emilysiar.com/ and https://bostonconservatory.berklee.edu/directory/linda-toote#:~:text=Linda%20Toote%20joined%20the%20Conservatory,and%20Lake%20George%20Opera%20orchestras.
 
-- date: 7:30-9:00pm, Friday, April 1, 2022
-  title: Emily Siar's Musical Theater Voice Studio Recital
-  subtitle: Each student will sing 2 songs or duets.
-  location: Boston Conseravtory Theater room 401, 31 Hemenway Street, Boston, MA 02115. Free & open to the public. 
-  website: https://bostonconservatory.berklee.edu/faculty/emily-siar
-
-- date: 12:00-12:50, Sunday, April 3, 2022
-  title: Rosie's Musical Theater Senior Recital
-  subtitle: Songs from "Into the Woods," "The Bridges of Madison County," "My Fair Lady," "Mean Girls" and more.
+- date: March 31, 2023
+  title: Liana's Senior Classical Voice Recital
+  subtitle:
+  time: 7:30pm
   location: Slosberg Hall, Brandeis University, 415 South Street, Waltham, MA 02453. Free & open to the public.
 
-- date: 8:000-9:30, Sunday, April 3, 2022
-  title: Dan Callaway's Musical Theater Voice Studio Recital
-  location: Boston Conservatory, 8 Fenway, Boston, MA 02215. Free & open to the public.
-  website: http://dancallaway.com/about/
+- date: April 15, 2023
+  title: Zipporah Peddle's Voice Studio Recital
+  subtitle: 
+  time: 2:00pm
+  location: Seully Hall, Boston Conservatory at Berklee, 8 Fenway, Boston MA 02215. Free & open to the public.
+  website: https://www.zipporahpeddlevoice.com/
 
-- date: 2:00-3:15, Saturday, April 9, 2022
-  title: Lauren's Graduate Voice Recital
-  subtitle: Songs in Yiddish, French and English!
-  location: Houston Hall, Boston Conservatory, 8 Fenway, 1st floor, Boston, MA 02215. Free & open to the public.
-  website: https://www.laurenacooksoprano.com/teaching
-
-- date: 8:00-9:30, Thursday, April 14, 2022
-  title: Christy Turnbow's Musical Theater Voice Studio Recital
-  location: Boston Conservatory, 8 Fenway, Boston, MA 02215. Free & open to the public.
-  website: https://bostonconservatory.berklee.edu/directory/christy-turnbow
-
-- date: 2:00-3:30, Saturday, April 16, 2022
-  title: Craig Juricka's Musical Theater Voice Studio Recital
-  location: Seully Hall, 4th floor of 8 Fenway, Boston Conservatory, Boston, MA 02115. Free & open to the public.
-  website: https://www.craigjuricka.com/
-
-- date: 8:00-9:00, Friday, April 22, 2022
-  title: Jacob's Senior Bass Recital
-  subtitle: Solo & chamber music
-  location: Boston Conservatory, 8 Fenway, Boston, MA 02215. Free & open to the public.
-
-- date: 7:30-8:45, Friday, April 29, 2022
-  title: Alex's Senior Musical Theater Recital
+- date: April 16, 2023
+  time: 3:00pm
+  title: Performance of Brahms' Ein Deutches Requiem by the Brandeis University Chamber Singers. 
+  subtitle: Orchestral reduction performed on two pianos by Grace and Annemieke.
   location: Slosberg Hall, Brandeis University, 415 South Street, Waltham, MA 02453. Free & open to the public.
 
-- date: Wednesday, May 4, 2022
-  title: Kat's Senior Musical Theater Recital
-  location: Slosberg Hall, Brandeis University, 415 South Street, Waltham, MA 02453. Free & open to the public.
+- date: April 30, 2023
+  title: Dan Callaway's Voice Studio Recital
+  subtitle:
+  time: 2:00pm
+  location: Boston Conservatory at Berklee
+  website: https://dancallaway.com/
+
 
 past_events:
+
+- date: April 22, 2022
+  title: Jacob Slater's Senior Double Bass Recital
+  subtitle: Solo & chamber music
+  location: Houston Hall, Boston Conservatory at Berklee, Boston, MA
+
+- date: April 1, 2022
+  title: Emily Siar's Studio Recital
+  location: Boston Conservatory Theater room 401, 31 Hemenway Street, Boston, MA
+  website: https://bostonconservatory.berklee.edu/faculty/emily-siar
+
+- date: April 9, 2022
+  title: Lauren Cook's Graduate Voice Recital
+  subtitle: Songs in Yiddish, French and English!
+  location: Houston Hall, Boston Conservatory at Berklee, Boston, MA 
+  website: https://www.laurenacooksoprano.com/teaching
+
+- date: March 30, 2022
+  title: Jiayi's Senior Harp Recital
+  subtitle: Program includes both solo harp & chamber music.
+  location: 132 Ipswich Street performance hall, Boston Conservatory at Berklee, Boston, MA
 
 - date: March 26, 2022
   title: Liana's Junior Classical Voice Recital
@@ -70,7 +75,8 @@ past_events:
   website: https://www.klassical-kidz-music-studio.com/
 
 - date: Nov. 17, 2019
-  title: Brandeis Choral ensembles concert directed by Robert Duff
+  title: Brandeis University's Chamber Singers and University Chorus' Fall Concert
+  subtitle: Directed by Robert Duff
   location: Brandeis University, Waltham, MA
 
 - date: Nov. 23, 2019
@@ -220,7 +226,7 @@ past_events:
 
 {% include titleborder %}
 
-### 2021 Upcoming Events -- Come join me!
+### 2022 Upcoming Events -- Come join me!
 
 {% include events.html items=page.current_events %}
 

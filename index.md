@@ -20,7 +20,7 @@ carousel_data:
 
 # MUSIC BY GRACE EVELYN
 
-#### Pianist, Coach, Accompanist
+#### Pianist, Accompanist, Coach & Teacher
 
 {% include titleborder %}
 
