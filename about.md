@@ -76,7 +76,7 @@ I have experience teaching piano students from beginner to advanced-intermediate
 
 {% capture piano_col2 %}
 
-![Piano Instructor](/assets/images/Elouis and me.jpg)
+![Piano Instructor](/assets/images/teachingphoto.png)
 
 {% endcapture %}
 
