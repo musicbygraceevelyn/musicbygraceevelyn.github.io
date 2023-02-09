@@ -18,7 +18,7 @@ I love helping every musician I work with improve their sound and feel more conf
 
 I love languages and I love helping my singers nail the pronunciation of the text when they're singing. I have studied English, French, German, Spanish and Italian and took a quick crash course in Czech. I have had the pleasure of visiting countries where these languages are spoken and been able to listen to native speakers. I would love to work with you to pass on what I have learned! In addition to pronunciation, we'll talk about the story behind the piece, find the story you want to share when you're performing, and work so you can sound your absolute best.
 
-See my [vocal repertoire resumé](vocal_rep) for a complete listing of works performed.
+See my [vocal repertoire resumé](vocal_rep) for a partial listing of works performed.
 
 {% endcapture %}
 
